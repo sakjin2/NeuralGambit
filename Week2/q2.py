@@ -163,19 +163,43 @@ class History:
         pass
 
     def get_valid_actions(self):
+        valids_centre=[]
+        valids_corners=[]
+        others=[]
+        for i in range(0,self.num_boards):
+            if self.check_active_boards()[i]==0:
+                continue
+            if self.boards[i][4]=='0':
+                valids_centre.append(9*i+4)               
+            for p in [0,2,6,8]:
+                if self.boards[i][p]=='0':
+                    valids_corners.append(9*i+p)
+            for p in [1,3,5,7]:
+                if self.boards[i][p]=='0':
+                    others.append(9*i+p)
+                            
+
+
+        return valids_centre+valids_corners+others
+                    
         # Feel free to implement this in anyway if needed
         pass
 
     def is_terminal_history(self):
+        if 1 in self.check_active_boards():
+            return False
+        return True
         # Feel free to implement this in anyway if needed
-        pass
 
-    def get_value_given_terminal_history(self):
+    def get_value_given_terminal_history(self,max_player_flag):
+        if max_player_flag:
+            return 1
+        else:
+            return -1
         # Feel free to implement this in anyway if needed
-        pass
 
 
-def alpha_beta_pruning(history_obj, alpha, beta, max_player_flag):
+def alpha_beta_pruning(history_obj, alpha, beta,max_player_flag):
     """
         Calculate the maxmin value given a History object using alpha beta pruning. Use the specific move order to
         speedup (more pruning, less memory).
@@ -189,8 +213,34 @@ def alpha_beta_pruning(history_obj, alpha, beta, max_player_flag):
     # These two already given lines track the visited histories.
     global visited_histories_list
     visited_histories_list.append(history_obj.history)
+    if history_obj.is_terminal_history():
+        return float(history_obj.get_value_given_terminal_history(max_player_flag))
+    valids = history_obj.get_valid_actions()
+    if max_player_flag:
+        maxeval = float('-inf')
+        for i in valids:
+            newhis = history_obj.history.copy()
+            newhis.append(i)
+            eval = alpha_beta_pruning(History(history_obj.num_boards,newhis),alpha,beta,False)
+            if eval>maxeval:
+                maxeval = eval
+            alpha = max(alpha,eval)
+            if alpha>=beta:
+                break
+        return float(maxeval)
+    else:
+        mineval = float('+inf')
+        for i in valids:
+            newhis = history_obj.history.copy()
+            newhis.append(i)
+            eval = alpha_beta_pruning(History(history_obj.num_boards,newhis),alpha,beta,True)
+            if eval<mineval:
+                mineval = eval  
+            beta = min(beta,eval)
+            if alpha>=beta:
+                break
+        return float(mineval)
     # TODO implement
-    return -2
     # TODO implement
 
 
@@ -206,8 +256,34 @@ def maxmin(history_obj, max_player_flag):
     # self.boards and value represents the maxmin value. Use the get_boards_str function in History class to get
     # the key corresponding to self.boards.
     global board_positions_val_dict
+    
     # TODO implement
-    return -2
+    if history_obj.is_terminal_history():
+        return float(history_obj.get_value_given_terminal_history(max_player_flag))
+    valids = history_obj.get_valid_actions()
+    myobj = history_obj.get_boards_str()
+    if myobj in board_positions_val_dict.keys():
+        return board_positions_val_dict[myobj]
+    if max_player_flag:
+        maxeval = float('-inf')
+        for i in valids:
+            newhis = history_obj.history.copy()
+            newhis.append(i)
+            eval = maxmin(History(history_obj.num_boards,newhis),False)
+            if eval>maxeval:
+                maxeval = eval
+        board_positions_val_dict[myobj] = float(maxeval)
+        return float(maxeval)
+    else:
+        mineval = float('+inf')
+        for i in valids:
+            newhis = history_obj.history.copy()
+            newhis.append(i)
+            eval = maxmin(History(history_obj.num_boards,newhis),True)
+            if eval<mineval:
+                mineval = eval  
+        board_positions_val_dict[myobj] = float(mineval)
+        return float(mineval)
     # TODO implement
 
 
