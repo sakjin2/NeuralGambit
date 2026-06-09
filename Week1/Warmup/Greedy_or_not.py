@@ -16,9 +16,7 @@ def maxscore(n,mylist,turn):
         return max(maxscore(n-1,newlist1,False)+mylist[0],maxscore(n-1,newlist2,False)+mylist[n-1])
     else :
         return sum(mylist) - maxscore(n,mylist,True)
-
     
-
 n = int(input())
 a = input()
 mylist = list(map(int,a.split()))
