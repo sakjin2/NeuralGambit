@@ -3,7 +3,7 @@
 using namespace std;
 using namespace chess;
 #include <chrono>
-int maxdepth=8;
+int maxdepth=7;
 class EngineSolver{
     Board board;
     Move best;
