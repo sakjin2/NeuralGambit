@@ -1,6 +1,7 @@
 bhaiya.cpp - The file mentor provided me for reference .
 chess.cpp,chess2.cpp,final.cpp,final2original.cpp,newchess.cpp,news.cpp,puzzle.cpp,puzzle2.cpp -  different  bot styles trial to check fastest .
-MATE_SOLVER.cpp - my + bhaiya's bot style mixed to make it very quick ( mate in 4 in 128 s!!)
 chess.hpp - desservin's header
 json.hpp - nlohmann's json header
 mate_in_x.json - to test the chess bots 
+
+MATE_SOLVER.cpp - my + bhaiya's bot style mixed to make it very quick ( mate in 4 in 128 s!!)
