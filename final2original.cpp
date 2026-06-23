@@ -1,21 +1,23 @@
 
 #include<bits/stdc++.h>
-#include "json.hpp" 
 #include "chess.hpp"
-using json = nlohmann::json;
 using namespace chess;
+#include "json.hpp"
+using json = nlohmann::json;
 
+  
 
 class EngineSolver{
     Board board;
     public:
     EngineSolver(const Board &boards){board=boards;};
     int score_move(Move move)
-    {int score=0;
-      
+    {
+     
       if(!board.isCapture(move)){
-        score+=0;
+        return 0;
       }
+      
        
       else{
         PieceType captured_type;
@@ -24,16 +26,14 @@ class EngineSolver{
         } else {
             captured_type = board.at<PieceType>(move.to());
         }
-         if (captured_type != PieceType::NONE){
-    if (captured_type == PieceType::PAWN)  score+=100;
-    if (captured_type == PieceType::KNIGHT) score+=300;
-    if (captured_type == PieceType::BISHOP)  score+=300;
-    if (captured_type == PieceType::ROOK)   score+=500;
-    if (captured_type == PieceType::QUEEN)  score+=900;
-         }
+    if (captured_type == PieceType::PAWN)  return 100;
+    if (captured_type == PieceType::KNIGHT) return 300;
+    if (captured_type == PieceType::BISHOP)  return 300;
+    if (captured_type == PieceType::ROOK)   return 500;
+    else return 900;
     
       }
-      return score;
+      
     }
     int board_eval(int turn){
       Color color=turn==1?Color::WHITE:Color::BLACK;
@@ -56,7 +56,7 @@ class EngineSolver{
     }
    
     std::pair<int,std::vector<Move>> best_move_utility(int alpha,int beta,int turn,int depth)
-    {std::vector<Move>best;
+    {std::vector<Move>best(0);
       if (board.isHalfMoveDraw())
   return {0 , best};
   if (board.isRepetition(1))
@@ -64,12 +64,16 @@ class EngineSolver{
 
   Movelist moves;
   movegen::legalmoves(moves, board);
-  int scores[moves.size()];
-  for(int i=0;i<moves.size();i++)
-  {
-    scores[i]=score_move(moves[i]);
-  }
+  int max_moves = moves.size();
+ 
+    
+        std::pair<int,Move> scores[max_moves];
+        for (int i = 0; i < max_moves; i++) {
+            scores[i]={ score_move(moves[i]), moves[i] };
+        }
 
+        std::sort(scores, scores+max_moves, [](const std::pair<int,Move> &a, const std::pair <int,Move> &b) {
+            return a.first > b.first;});
 
 if (moves.empty())
  {if (board.inCheck())
@@ -77,32 +81,22 @@ if (moves.empty())
   else return {0 ,best};
  }
  if(depth==0) return {0 ,best};
-   std::vector<Move> temp;
+  std::vector<Move> temp;
   if (turn==1)
   { int maxeval=-1000000;
     
-    for(int i=0;i<moves.size();i++)
-   {
-    for(int j=i+1;j<moves.size();j++)
-    {
-     if(scores[i]<scores[j])
-     {
-       std::swap(moves[i],moves[j]);
-       std::swap(scores[i],scores[j]);
-     }
-    }
- 
-  Move x=moves[i];
+    
+ for(int i=0;i<moves.size();i++)
+  {Move x=scores[i].second;
   board.makeMove(x);
     int eval;
-    std::vector<Move>temp;
     std::tie(eval,temp) = best_move_utility(alpha,beta,-turn,depth-1);
     board.unmakeMove(x);
     if (eval>maxeval)
-   { maxeval= eval; temp.push_back(x); best=temp;}
+   { maxeval= eval;best.clear(); best.push_back(x); best.insert(best.end(),temp.begin(),temp.end());}
     alpha=std::max(alpha,eval);
     if(alpha>=beta) break;
-    if(eval>=10000) break;
+    if (eval>=10000) break;
   
   } 
   return {maxeval,best};
@@ -110,27 +104,17 @@ if (moves.empty())
   
   else 
   {int mineval=1000000;
+    
+    
     for(int i=0;i<moves.size();i++)
-   {
-    for(int j=i+1;j<moves.size();j++)
-    {
-     if(scores[i]<scores[j])
-     {
-       std::swap(moves[i],moves[j]);
-       std::swap(scores[i],scores[j]);
-     }
-    }
-    
-    
-  Move x=moves[i];
+  {Move x=scores[i].second;
   board.makeMove(x);
    int eval;
-    std::vector<Move>temp;
     std::tie(eval,temp) = best_move_utility(alpha,beta,-turn,depth-1);
     board.unmakeMove(x);
     if(eval<mineval)
     {mineval= eval;
-      temp.push_back(x);best=temp;
+      best.clear();best.push_back(x);best.insert(best.end(),temp.begin(), temp.end());
       }
     beta=std::min(beta,eval);
     if(alpha>=beta) break;
@@ -172,7 +156,7 @@ std::string normalize_move_string(const std::string& input) {
 }
 
 int main()
- {   std::ifstream file("mate_in_3.json");
+ {   std::ifstream file("mate_in_4.json");
     if (!file.is_open()) {
         std::cerr << "Error: Could not open test_cases.json" << std::endl;
         return 1;
@@ -201,7 +185,7 @@ int main()
         EngineSolver mine(board);
 
         int turn = (board.sideToMove() == Color::WHITE) ? 1 : -1;
-        int depth = 5; // High enough depth to capture Mate-in-2 or Mate-in-3 lines
+        int depth = 7; // High enough depth to capture Mate-in-2 or Mate-in-3 lines
         
         int hi;
         std::vector<Move> bestmove;
@@ -209,9 +193,9 @@ int main()
 
         // 3. Reconstruct the engine's move sequence into a single clean string
         std::string raw_engine_solution = "";
-        for (int i = (int)bestmove.size()-1; i>=0; i--) {
+        for (int i = 0; i<(int)bestmove.size(); i++) {
             raw_engine_solution += chess::uci::moveToSan(board, bestmove[i]);
-            if (i != 0) {
+            if (i != (int)bestmove.size()-1) {
                 raw_engine_solution += " ";
             
             board.makeMove(bestmove[i]);} // Advance state for chronological SAN rendering
