@@ -1,0 +1,2880 @@
+====================================
+FEN: rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+Side to move: WHITE
+NNUE        : 27
+Handcrafted : 0
+Difference  : 27
+Best move   : d2d4
+
+====================================
+FEN: rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2
+Side to move: WHITE
+NNUE        : 26
+Handcrafted : 0
+Difference  : 26
+Best move   : c2c4
+
+====================================
+FEN: rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3
+Side to move: WHITE
+NNUE        : 39
+Handcrafted : -30
+Difference  : 69
+Best move   : b1c3
+
+====================================
+FEN: r1bqkbnr/ppp2ppp/2n1p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4
+Side to move: WHITE
+NNUE        : 75
+Handcrafted : -30
+Difference  : 105
+Best move   : e2e3
+
+====================================
+FEN: r1bqk1nr/ppp2ppp/2n1p3/3p4/1bPP4/2N1P3/PP3PPP/R1BQKBNR w KQkq - 1 5
+Side to move: WHITE
+NNUE        : 65
+Handcrafted : -25
+Difference  : 90
+Best move   : g1f3
+
+====================================
+FEN: r1bqk1nr/ppp2ppp/2n1p3/3p4/2PP4/2b1PN2/PP3PPP/R1BQKB1R w KQkq - 0 6
+Side to move: WHITE
+NNUE        : 71
+Handcrafted : -285
+Difference  : 356
+Best move   : b2c3
+
+====================================
+FEN: r1bqk2r/ppp2ppp/2n1pn2/3p4/2PP4/2P1PN2/P4PPP/R1BQKB1R w KQkq - 1 7
+Side to move: WHITE
+NNUE        : 68
+Handcrafted : -50
+Difference  : 118
+Best move   : c1a3
+
+====================================
+FEN: r1bqk2r/ppp2ppp/2n1p3/3p4/2PPn3/B1P1PN2/P4PPP/R2QKB1R w KQkq - 3 8
+Side to move: WHITE
+NNUE        : 47
+Handcrafted : -60
+Difference  : 107
+Best move   : a1c1
+
+====================================
+FEN: r1b1k2r/ppp2ppp/2n1pq2/3p4/2PPn3/B1P1PN2/P4PPP/2RQKB1R w Kkq - 5 9
+Side to move: WHITE
+NNUE        : 129
+Handcrafted : -70
+Difference  : 199
+Best move   : f1d3
+
+====================================
+FEN: r1b1k2r/ppp2ppp/2n1p3/3p1q2/2PPn3/B1PBPN2/P4PPP/2RQK2R w Kkq - 7 10
+Side to move: WHITE
+NNUE        : 259
+Handcrafted : -50
+Difference  : 309
+Best move   : d1c2
+
+====================================
+FEN: r3k2r/pppb1ppp/2n1p3/3p1q2/2PPn3/B1PBPN2/P1Q2PPP/2R1K2R w Kkq - 9 11
+Side to move: WHITE
+NNUE        : 287
+Handcrafted : -50
+Difference  : 337
+Best move   : c4d5
+
+====================================
+FEN: r3k2r/pppb1ppp/2n5/3p1q2/3Pn3/B1PBPN2/P1Q2PPP/2R1K2R w Kkq - 0 12
+Side to move: WHITE
+NNUE        : 260
+Handcrafted : -50
+Difference  : 310
+Best move   : d3e4
+
+====================================
+FEN: r3k2r/pppb1ppp/2n5/3p4/3Pq3/B1P1PN2/P1Q2PPP/2R1K2R w Kkq - 0 13
+Side to move: WHITE
+NNUE        : 388
+Handcrafted : -40
+Difference  : 428
+Best move   : c2e4
+
+====================================
+FEN: r3k2r/pppb1ppp/2n5/8/3Pp3/B1P1PN2/P4PPP/2R1K2R w Kkq - 0 14
+Side to move: WHITE
+NNUE        : 37
+Handcrafted : -45
+Difference  : 82
+Best move   : f3g5
+
+====================================
+FEN: r3k2r/ppp2ppp/2n5/5bN1/3Pp3/B1P1P3/P4PPP/2R1K2R w Kkq - 2 15
+Side to move: WHITE
+NNUE        : 115
+Handcrafted : -60
+Difference  : 175
+Best move   : e1d2
+
+====================================
+FEN: r3k2r/ppp2pp1/2n4p/5bN1/3Pp3/B1P1P3/P2K1PPP/2R4R w kq - 0 16
+Side to move: WHITE
+NNUE        : 38
+Handcrafted : -30
+Difference  : 68
+Best move   : g2g4
+
+====================================
+FEN: r3k2r/ppp2pp1/2n4p/6N1/3Pp1b1/B1P1P3/P2K1P1P/2R4R w kq - 0 17
+Side to move: WHITE
+NNUE        : -104
+Handcrafted : -135
+Difference  : 31
+Best move   : g5e4
+
+====================================
+FEN: r3k2r/ppp2pp1/2n4p/8/3PN3/B1P1Pb2/P2K1P1P/2R4R w kq - 1 18
+Side to move: WHITE
+NNUE        : 102
+Handcrafted : 5
+Difference  : 97
+Best move   : e4c5
+
+====================================
+FEN: r3k2r/ppp2pp1/2n4p/2N5/3P4/B1P1P3/P2K1P1P/2R4b w kq - 0 19
+Side to move: WHITE
+NNUE        : -50
+Handcrafted : -475
+Difference  : 425
+Best move   : c1h1
+
+====================================
+FEN: r3k2r/p1p2pp1/1pn4p/2N5/3P4/B1P1P3/P2K1P1P/7R w kq - 0 20
+Side to move: WHITE
+NNUE        : 125
+Handcrafted : -180
+Difference  : 305
+Best move   : c5b3
+
+====================================
+FEN: r6r/p1pk1pp1/1pn4p/8/3P4/BNP1P3/P2K1P1P/7R w - - 2 21
+Side to move: WHITE
+NNUE        : 307
+Handcrafted : -220
+Difference  : 527
+Best move   : h1g1
+
+====================================
+FEN: r5r1/p1pk1pp1/1pn4p/8/3P4/BNP1P3/P2K1P1P/6R1 w - - 4 22
+Side to move: WHITE
+NNUE        : 302
+Handcrafted : -220
+Difference  : 522
+Best move   : c3c4
+
+====================================
+FEN: 3r2r1/p1pk1pp1/1pn4p/8/2PP4/BN2P3/P2K1P1P/6R1 w - - 1 23
+Side to move: WHITE
+NNUE        : 408
+Handcrafted : -215
+Difference  : 623
+Best move   : g1e1
+
+====================================
+FEN: 3r2r1/p1p2pp1/1pn1k2p/8/2PP4/BN2P3/P2K1P1P/4R3 w - - 3 24
+Side to move: WHITE
+NNUE        : 231
+Handcrafted : -240
+Difference  : 471
+Best move   : d4d5
+
+====================================
+FEN: 3r2r1/p1p2pp1/1pn4p/3P1k2/2P5/BN2P3/P2K1P1P/4R3 w - - 1 25
+Side to move: WHITE
+NNUE        : 36
+Handcrafted : -235
+Difference  : 271
+Best move   : d5d6
+
+====================================
+FEN: 3rr3/p1p2pp1/1pnP3p/5k2/2P5/BN2P3/P2K1P1P/4R3 w - - 1 26
+Side to move: WHITE
+NNUE        : 97
+Handcrafted : -235
+Difference  : 332
+Best move   : e1g1
+
+====================================
+FEN: 3r2r1/p1p2pp1/1pnP3p/5k2/2P5/BN2P3/P2K1P1P/6R1 w - - 3 27
+Side to move: WHITE
+NNUE        : 182
+Handcrafted : -235
+Difference  : 417
+Best move   : b3d4
+
+====================================
+FEN: 3r2r1/p1p2pp1/1p1P3p/5k2/2Pn4/B3P3/P2K1P1P/6R1 w - - 0 28
+Side to move: WHITE
+NNUE        : 221
+Handcrafted : -550
+Difference  : 771
+Best move   : e3d4
+
+====================================
+FEN: 3r2r1/p4pp1/1p1p3p/5k2/2PP4/B7/P2K1P1P/6R1 w - - 0 29
+Side to move: WHITE
+NNUE        : 317
+Handcrafted : -330
+Difference  : 647
+Best move   : g1g3
+
+====================================
+FEN: 3r2r1/p4pp1/1p5p/3p1k2/2PP4/B5R1/P2K1P1P/8 w - - 0 30
+Side to move: WHITE
+NNUE        : 31
+Handcrafted : -350
+Difference  : 381
+Best move   : c4c5
+
+====================================
+FEN: 3r2r1/p4pp1/1p5p/2Pp4/3Pk3/B5R1/P2K1P1P/8 w - - 1 31
+Side to move: WHITE
+NNUE        : -94
+Handcrafted : -350
+Difference  : 256
+Best move   : g3e3
+
+====================================
+FEN: 3r2r1/p4pp1/1p5p/2Pp4/3k4/B3R3/P2K1P1P/8 w - - 0 32
+Side to move: WHITE
+NNUE        : -269
+Handcrafted : -470
+Difference  : 201
+Best move   : e3d3
+
+====================================
+FEN: 3r2r1/p4pp1/1p5p/2Pp4/2k5/B2R4/P2K1P1P/8 w - - 2 33
+Side to move: WHITE
+NNUE        : 150
+Handcrafted : -460
+Difference  : 610
+Best move   : c5b6
+
+====================================
+FEN: 3r2r1/5pp1/1p5p/3p4/2k5/B2R4/P2K1P1P/8 w - - 0 34
+Side to move: WHITE
+NNUE        : 108
+Handcrafted : -465
+Difference  : 573
+Best move   : d3b3
+
+====================================
+FEN: r5r1/5pp1/1p5p/3p4/2k5/BR6/P2K1P1P/8 w - - 2 35
+Side to move: WHITE
+NNUE        : 141
+Handcrafted : -460
+Difference  : 601
+Best move   : b3c3
+
+====================================
+FEN: r5r1/5pp1/1p5p/3p4/3k4/B1R5/P2K1P1P/8 w - - 4 36
+Side to move: WHITE
+NNUE        : 225
+Handcrafted : -470
+Difference  : 695
+Best move   : c3d3
+
+====================================
+FEN: r5r1/5pp1/1p5p/3p4/4k3/B2R4/P2K1P1P/8 w - - 6 37
+Side to move: WHITE
+NNUE        : 71
+Handcrafted : -470
+Difference  : 541
+Best move   : d3e3
+
+====================================
+FEN: r5r1/5pp1/1p5p/3p1k2/8/B3R3/P2K1P1P/8 w - - 8 38
+Side to move: WHITE
+NNUE        : 212
+Handcrafted : -460
+Difference  : 672
+Best move   : e3f3
+
+====================================
+FEN: r5r1/5pp1/1p5p/3p4/4k3/B4R2/P2K1P1P/8 w - - 10 39
+Side to move: WHITE
+NNUE        : 218
+Handcrafted : -470
+Difference  : 688
+Best move   : f3e3
+
+====================================
+FEN: r5r1/5pp1/1p5p/3p1k2/8/B3R3/P2K1P1P/8 w - - 12 40
+Side to move: WHITE
+NNUE        : 212
+Handcrafted : -460
+Difference  : 672
+Best move   : e3f3
+
+====================================
+FEN: r5r1/5pp1/1p5p/3p4/6k1/B4R2/P2K1P1P/8 w - - 14 41
+Side to move: WHITE
+NNUE        : 716
+Handcrafted : -420
+Difference  : 1136
+Best move   : f3f7
+
+====================================
+FEN: 6r1/5Rp1/1p5p/3p4/6k1/r7/P2K1P1P/8 w - - 0 42
+Side to move: WHITE
+NNUE        : 54
+Handcrafted : -585
+Difference  : 639
+Best move   : d2c2
+
+====================================
+FEN: 6r1/5Rp1/1p5p/8/3p2k1/r7/P1K2P1P/8 w - - 0 43
+Side to move: WHITE
+NNUE        : 145
+Handcrafted : -590
+Difference  : 735
+Best move   : c2b2
+
+====================================
+FEN: 6r1/5Rp1/1p5p/8/3p2k1/5r2/PK3P1P/8 w - - 2 44
+Side to move: WHITE
+NNUE        : 461
+Handcrafted : -625
+Difference  : 1086
+Best move   : h2h3
+
+====================================
+FEN: 6r1/5Rp1/1p5p/8/3p2k1/7r/PK3P2/8 w - - 0 45
+Side to move: WHITE
+NNUE        : 98
+Handcrafted : -725
+Difference  : 823
+Best move   : b2c2
+
+====================================
+FEN: 6r1/5Rp1/1p5p/8/3p2k1/5r2/P1K2P2/8 w - - 2 46
+Side to move: WHITE
+NNUE        : 58
+Handcrafted : -700
+Difference  : 758
+Best move   : f7d7
+
+====================================
+FEN: 6r1/3R2p1/1p5p/8/3p2k1/8/P1K2r2/8 w - - 0 47
+Side to move: WHITE
+NNUE        : -10
+Handcrafted : -820
+Difference  : 810
+Best move   : c2b3
+
+====================================
+FEN: 6r1/3R2p1/1p5p/8/3p2k1/1K6/P2r4/8 w - - 2 48
+Side to move: WHITE
+NNUE        : -28
+Handcrafted : -830
+Difference  : 802
+Best move   : d7e7
+
+====================================
+FEN: 6r1/4R1p1/1p5p/8/3p1k2/1K6/P2r4/8 w - - 4 49
+Side to move: WHITE
+NNUE        : -356
+Handcrafted : -870
+Difference  : 514
+Best move   : e7f7
+
+====================================
+FEN: 6r1/5Rp1/1p5p/4k3/3p4/1K6/P2r4/8 w - - 6 50
+Side to move: WHITE
+NNUE        : -218
+Handcrafted : -880
+Difference  : 662
+Best move   : f7e7
+
+====================================
+FEN: 6r1/4R1p1/1p1k3p/8/3p4/1K6/P2r4/8 w - - 8 51
+Side to move: WHITE
+NNUE        : -290
+Handcrafted : -870
+Difference  : 580
+Best move   : e7b7
+
+====================================
+FEN: 6r1/1R4p1/1pk4p/8/3p4/1K6/P2r4/8 w - - 10 52
+Side to move: WHITE
+NNUE        : -411
+Handcrafted : -860
+Difference  : 449
+Best move   : b7e7
+
+====================================
+FEN: 6r1/4R1p1/2k4p/1p6/3p4/1K6/P2r4/8 w - - 0 53
+Side to move: WHITE
+NNUE        : -461
+Handcrafted : -865
+Difference  : 404
+Best move   : e7e6
+
+====================================
+FEN: 6r1/6p1/4R2p/1p1k4/3p4/1K6/P2r4/8 w - - 2 54
+Side to move: WHITE
+NNUE        : -413
+Handcrafted : -895
+Difference  : 482
+Best move   : e6e7
+
+====================================
+FEN: 6r1/4R1p1/7p/1p1k4/3p4/1K1r4/P7/8 w - - 4 55
+Side to move: WHITE
+NNUE        : -400
+Handcrafted : -875
+Difference  : 475
+Best move   : b3c2
+
+====================================
+FEN: 6r1/4R1p1/7p/1p1k4/3p4/r7/P1K5/8 w - - 6 56
+Side to move: WHITE
+NNUE        : -352
+Handcrafted : -860
+Difference  : 508
+Best move   : e7d7
+
+====================================
+FEN: 6r1/3R2p1/7p/1p6/3pk3/r7/P1K5/8 w - - 8 57
+Side to move: WHITE
+NNUE        : -71
+Handcrafted : -860
+Difference  : 789
+Best move   : d7e7
+
+====================================
+FEN: 6r1/4R1p1/7p/1p1k4/3p4/r7/P1K5/8 w - - 10 58
+Side to move: WHITE
+NNUE        : -352
+Handcrafted : -860
+Difference  : 508
+Best move   : e7d7
+
+====================================
+FEN: 6r1/3R2p1/7p/1p6/3pk3/r7/P1K5/8 w - - 12 59
+Side to move: WHITE
+NNUE        : -71
+Handcrafted : -860
+Difference  : 789
+Best move   : d7e7
+
+====================================
+FEN: 6r1/4R1p1/7p/1p6/3p4/r4k2/P1K5/8 w - - 14 60
+Side to move: WHITE
+NNUE        : -286
+Handcrafted : -840
+Difference  : 554
+Best move   : e7f7
+
+====================================
+FEN: 6r1/5Rp1/7p/1p6/3p4/r3k3/P1K5/8 w - - 16 61
+Side to move: WHITE
+NNUE        : -34
+Handcrafted : -850
+Difference  : 816
+Best move   : f7e7
+
+====================================
+FEN: 6r1/4R1p1/7p/1p6/3p1k2/r7/P1K5/8 w - - 18 62
+Side to move: WHITE
+NNUE        : -336
+Handcrafted : -850
+Difference  : 514
+Best move   : e7f7
+
+====================================
+FEN: 6r1/5Rp1/7p/1p2k3/3p4/r7/P1K5/8 w - - 20 63
+Side to move: WHITE
+NNUE        : -335
+Handcrafted : -860
+Difference  : 525
+Best move   : c2b2
+
+====================================
+FEN: 6r1/5Rp1/7p/4k3/1p1p4/r7/PK6/8 w - - 0 64
+Side to move: WHITE
+NNUE        : -419
+Handcrafted : -895
+Difference  : 476
+Best move   : f7b7
+
+====================================
+FEN: 6r1/1R4p1/7p/8/1p1pk3/r7/PK6/8 w - - 2 65
+Side to move: WHITE
+NNUE        : -493
+Handcrafted : -895
+Difference  : 402
+Best move   : b7b4
+
+====================================
+FEN: r7/6p1/7p/8/1R1pk3/r7/PK6/8 w - - 1 66
+Side to move: WHITE
+NNUE        : -199
+Handcrafted : -800
+Difference  : 601
+Best move   : b4b5
+
+====================================
+FEN: r7/6p1/7p/1R6/3pk3/8/rK6/8 w - - 0 67
+Side to move: WHITE
+NNUE        : -700
+Handcrafted : -915
+Difference  : 215
+Best move   : b2b3
+
+====================================
+FEN: 8/6p1/7p/1R6/3pk3/rK6/r7/8 w - - 2 68
+Side to move: WHITE
+NNUE        : -606
+Handcrafted : -890
+Difference  : 284
+Best move   : b3b4
+
+====================================
+FEN: 8/6p1/7p/1R6/1K1pk3/r7/1r6/8 w - - 4 69
+Side to move: WHITE
+NNUE        : -647
+Handcrafted : -895
+Difference  : 248
+Best move   : b4c5
+
+====================================
+FEN: 8/6p1/7p/1RK5/3pk3/2r5/1r6/8 w - - 6 70
+Side to move: WHITE
+NNUE        : -573
+Handcrafted : -860
+Difference  : 287
+Best move   : c5d6
+
+====================================
+FEN: 8/6p1/3K3p/1r6/3pk3/2r5/8/8 w - - 0 71
+Side to move: WHITE
+NNUE        : -695
+Handcrafted : -1350
+Difference  : 655
+Best move   : d6e6
+
+====================================
+FEN: 8/1r4p1/4K2p/8/3pk3/2r5/8/8 w - - 2 72
+Side to move: WHITE
+NNUE        : -855
+Handcrafted : -1350
+Difference  : 495
+Best move   : e6d6
+
+====================================
+FEN: 2r5/1r4p1/3K3p/8/3pk3/8/8/8 w - - 4 73
+Side to move: WHITE
+NNUE        : -831
+Handcrafted : -1350
+Difference  : 519
+Best move   : d6e6
+
+====================================
+FEN: 8/1r4p1/4K2p/8/3pk3/2r5/8/8 w - - 6 74
+Side to move: WHITE
+NNUE        : -855
+Handcrafted : -1350
+Difference  : 495
+Best move   : e6d6
+
+====================================
+FEN: 2r5/1r4p1/3K3p/8/3pk3/8/8/8 w - - 8 75
+Side to move: WHITE
+NNUE        : -831
+Handcrafted : -1350
+Difference  : 519
+Best move   : d6e6
+
+====================================
+FEN: 2r5/1r4p1/4K2p/8/4k3/3p4/8/8 w - - 0 76
+Side to move: WHITE
+NNUE        : -740
+Handcrafted : -1355
+Difference  : 615
+Best move   : e6d6
+
+====================================
+FEN: 8/1r4p1/3K3p/8/4k3/2rp4/8/8 w - - 2 77
+Side to move: WHITE
+NNUE        : -600
+Handcrafted : -1355
+Difference  : 755
+Best move   : d6e6
+
+====================================
+FEN: 2r5/1r4p1/4K2p/8/4k3/3p4/8/8 w - - 4 78
+Side to move: WHITE
+NNUE        : -740
+Handcrafted : -1355
+Difference  : 615
+Best move   : e6d6
+
+====================================
+FEN: 8/1r4p1/3K3p/8/4k3/2rp4/8/8 w - - 6 79
+Side to move: WHITE
+NNUE        : -600
+Handcrafted : -1355
+Difference  : 755
+Best move   : d6e6
+
+====================================
+FEN: rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+Side to move: WHITE
+NNUE        : 27
+Handcrafted : 0
+Difference  : 27
+Best move   : d2d4
+
+====================================
+FEN: rnbqkbnr/pp1ppppp/2p5/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2
+Side to move: WHITE
+NNUE        : 55
+Handcrafted : 60
+Difference  : -5
+Best move   : c1f4
+
+====================================
+FEN: rnbqkbnr/pp2pppp/2p5/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3
+Side to move: WHITE
+NNUE        : 39
+Handcrafted : 40
+Difference  : -1
+Best move   : c2c4
+
+====================================
+FEN: rnbqkbnr/pp3ppp/2p1p3/3p4/2PP1B2/8/PP2PPPP/RN1QKBNR w KQkq - 0 4
+Side to move: WHITE
+NNUE        : 39
+Handcrafted : 10
+Difference  : 29
+Best move   : e2e3
+
+====================================
+FEN: rnbqk1nr/pp2bppp/2p1p3/3p4/2PP1B2/4P3/PP3PPP/RN1QKBNR w KQkq - 1 5
+Side to move: WHITE
+NNUE        : 42
+Handcrafted : 20
+Difference  : 22
+Best move   : g1f3
+
+====================================
+FEN: rnbqk2r/pp2bppp/2p1pn2/3p4/2PP1B2/4PN2/PP3PPP/RN1QKB1R w KQkq - 3 6
+Side to move: WHITE
+NNUE        : 46
+Handcrafted : 20
+Difference  : 26
+Best move   : b1d2
+
+====================================
+FEN: rnbq1rk1/pp2bppp/2p1pn2/3p4/2PP1B2/4PN2/PP1N1PPP/R2QKB1R w KQ - 5 7
+Side to move: WHITE
+NNUE        : 46
+Handcrafted : 35
+Difference  : 11
+Best move   : f1d3
+
+====================================
+FEN: rnbq1rk1/pp2bppp/4pn2/2pp4/2PP1B2/3BPN2/PP1N1PPP/R2QK2R w KQ - 0 8
+Side to move: WHITE
+NNUE        : 28
+Handcrafted : 45
+Difference  : -17
+Best move   : d4c5
+
+====================================
+FEN: rnbq1rk1/pp2bppp/4pn2/2P5/2p2B2/3BPN2/PP1N1PPP/R2QK2R w KQ - 0 9
+Side to move: WHITE
+NNUE        : 109
+Handcrafted : 45
+Difference  : 64
+Best move   : d2c4
+
+====================================
+FEN: r1bq1rk1/pp1nbppp/4pn2/2P5/2N2B2/3BPN2/PP3PPP/R2QK2R w KQ - 1 10
+Side to move: WHITE
+NNUE        : 179
+Handcrafted : 120
+Difference  : 59
+Best move   : b2b4
+
+====================================
+FEN: r1bq1rk1/p2nbppp/4pn2/1pP5/1PN2B2/3BPN2/P4PPP/R2QK2R w KQ b6 0 11
+Side to move: WHITE
+NNUE        : 256
+Handcrafted : 120
+Difference  : 136
+Best move   : c4e5
+
+====================================
+FEN: r2q1rk1/pb1nbppp/4pn2/1pP1N3/1P3B2/3BPN2/P4PPP/R2QK2R w KQ - 2 12
+Side to move: WHITE
+NNUE        : 133
+Handcrafted : 110
+Difference  : 23
+Best move   : e1g1
+
+====================================
+FEN: r2q1rk1/p2nbppp/4pn2/1pP1N3/1P3B2/3BPb2/P4PPP/R2Q1RK1 w - - 0 13
+Side to move: WHITE
+NNUE        : 151
+Handcrafted : -170
+Difference  : 321
+Best move   : e5f3
+
+====================================
+FEN: r2q1rk1/3nbppp/p3pn2/1pP5/1P3B2/3BPN2/P4PPP/R2Q1RK1 w - - 0 14
+Side to move: WHITE
+NNUE        : 195
+Handcrafted : 125
+Difference  : 70
+Best move   : c5c6
+
+====================================
+FEN: r2q1rk1/4bppp/pnP1pn2/1p6/1P3B2/3BPN2/P4PPP/R2Q1RK1 w - - 1 15
+Side to move: WHITE
+NNUE        : 114
+Handcrafted : 135
+Difference  : -21
+Best move   : c6c7
+
+====================================
+FEN: r1q2rk1/2P1bppp/pn2pn2/1p6/1P3B2/3BPN2/P4PPP/R2Q1RK1 w - - 1 16
+Side to move: WHITE
+NNUE        : 271
+Handcrafted : 170
+Difference  : 101
+Best move   : a2a4
+
+====================================
+FEN: r1q2rk1/2P1bppp/p3pn2/1p1n4/PP3B2/3BPN2/5PPP/R2Q1RK1 w - - 1 17
+Side to move: WHITE
+NNUE        : 386
+Handcrafted : 150
+Difference  : 236
+Best move   : a4b5
+
+====================================
+FEN: r1q2rk1/2P1bppp/p3pn2/1P6/1P3n2/3BPN2/5PPP/R2Q1RK1 w - - 0 18
+Side to move: WHITE
+NNUE        : 244
+Handcrafted : -50
+Difference  : 294
+Best move   : e3f4
+
+====================================
+FEN: r1q2rk1/2P1bppp/p3p3/1P1n4/1P3P2/3B1N2/5PPP/R2Q1RK1 w - - 1 19
+Side to move: WHITE
+NNUE        : 511
+Handcrafted : 255
+Difference  : 256
+Best move   : b5a6
+
+====================================
+FEN: r1q2rk1/2P1bppp/P3p3/8/1n3P2/3B1N2/5PPP/R2Q1RK1 w - - 0 20
+Side to move: WHITE
+NNUE        : 582
+Handcrafted : 280
+Difference  : 302
+Best move   : f4f5
+
+====================================
+FEN: r4rk1/2q1bppp/P3p3/5P2/1n6/3B1N2/5PPP/R2Q1RK1 w - - 0 21
+Side to move: WHITE
+NNUE        : 282
+Handcrafted : 125
+Difference  : 157
+Best move   : f5e6
+
+====================================
+FEN: r2r2k1/2q1bppp/P3P3/8/1n6/3B1N2/5PPP/R2Q1RK1 w - - 1 22
+Side to move: WHITE
+NNUE        : 450
+Handcrafted : 240
+Difference  : 210
+Best move   : d3h7
+
+====================================
+FEN: r2r4/2q1bppk/P3P3/8/1n6/5N2/5PPP/R2Q1RK1 w - - 0 23
+Side to move: WHITE
+NNUE        : 350
+Handcrafted : 45
+Difference  : 305
+Best move   : e6f7
+
+====================================
+FEN: 3r4/2q1bPpk/r7/8/1n6/5N2/5PPP/R2Q1RK1 w - - 0 24
+Side to move: WHITE
+NNUE        : 458
+Handcrafted : 70
+Difference  : 388
+Best move   : d1b1
+
+====================================
+FEN: 3r3k/2q1bPp1/r7/8/1n6/5N2/5PPP/RQ3RK1 w - - 2 25
+Side to move: WHITE
+NNUE        : 260
+Handcrafted : 65
+Difference  : 195
+Best move   : a1a6
+
+====================================
+FEN: 3r3k/2q1bPp1/n7/8/8/5N2/5PPP/1Q3RK1 w - - 0 26
+Side to move: WHITE
+NNUE        : 236
+Handcrafted : 95
+Difference  : 141
+Best move   : b1f5
+
+====================================
+FEN: 3r3k/4bPp1/n1q5/5Q2/8/5N2/5PPP/5RK1 w - - 2 27
+Side to move: WHITE
+NNUE        : 490
+Handcrafted : 110
+Difference  : 380
+Best move   : f1e1
+
+====================================
+FEN: 3r3k/5Pp1/n1q5/5Q2/1b6/5N2/5PPP/4R1K1 w - - 4 28
+Side to move: WHITE
+NNUE        : 534
+Handcrafted : 110
+Difference  : 424
+Best move   : f3g5
+
+====================================
+FEN: 3r3k/5Pp1/n4q2/5QN1/1b6/8/5PPP/4R1K1 w - - 6 29
+Side to move: WHITE
+NNUE        : 558
+Handcrafted : 105
+Difference  : 453
+Best move   : f7f8r
+
+====================================
+FEN: 3r1q1k/6p1/n7/5QN1/1b6/8/5PPP/4R1K1 w - - 0 30
+Side to move: WHITE
+NNUE        : 421
+Handcrafted : -30
+Difference  : 451
+Best move   : f5h3
+
+====================================
+FEN: 3r1qk1/6p1/n7/6N1/1b6/7Q/5PPP/4R1K1 w - - 2 31
+Side to move: WHITE
+NNUE        : 35
+Handcrafted : -55
+Difference  : 90
+Best move   : h3h7
+
+====================================
+FEN: rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1
+Side to move: BLACK
+NNUE        : -27
+Handcrafted : -40
+Difference  : 13
+Best move   : c7c5
+
+====================================
+FEN: rnbqkbnr/pp1ppppp/8/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR b KQkq - 0 2
+Side to move: BLACK
+NNUE        : 19
+Handcrafted : -30
+Difference  : 49
+Best move   : d7d5
+
+====================================
+FEN: rnbqkbnr/pp2pppp/8/2ppP3/8/2P5/PP1P1PPP/RNBQKBNR b KQkq - 0 3
+Side to move: BLACK
+NNUE        : 18
+Handcrafted : 5
+Difference  : 13
+Best move   : b8c6
+
+====================================
+FEN: r1bqkbnr/pp2pppp/2n5/1BppP3/8/2P5/PP1P1PPP/RNBQK1NR b KQkq - 2 4
+Side to move: BLACK
+NNUE        : 13
+Handcrafted : 40
+Difference  : -27
+Best move   : c8d7
+
+====================================
+FEN: r2qkbnr/pp1bpppp/2B5/2ppP3/8/2P5/PP1P1PPP/RNBQK1NR b KQkq - 0 5
+Side to move: BLACK
+NNUE        : 61
+Handcrafted : -260
+Difference  : 321
+Best move   : d7c6
+
+====================================
+FEN: r2qkbnr/pp2pppp/2b5/2ppP3/8/2P2N2/PP1P1PPP/RNBQK2R b KQkq - 1 6
+Side to move: BLACK
+NNUE        : 82
+Handcrafted : 5
+Difference  : 77
+Best move   : a8b8
+
+====================================
+FEN: 1r1qkbnr/pp2pppp/2b5/2ppP3/3P4/2P2N2/PP3PPP/RNBQK2R b KQk - 0 7
+Side to move: BLACK
+NNUE        : 8
+Handcrafted : -35
+Difference  : 43
+Best move   : e7e6
+
+====================================
+FEN: 1r1qkbnr/pp3ppp/2b1p3/2ppP3/3P4/2P2N2/PP3PPP/RNBQ1RK1 b k - 1 8
+Side to move: BLACK
+NNUE        : 17
+Handcrafted : -45
+Difference  : 62
+Best move   : d8b6
+
+====================================
+FEN: 1r2kbnr/pp3ppp/1qb1p3/2PpP3/8/2P2N2/PP3PPP/RNBQ1RK1 b k - 0 9
+Side to move: BLACK
+NNUE        : -37
+Handcrafted : -125
+Difference  : 88
+Best move   : f8c5
+
+====================================
+FEN: 1r2k1nr/pp3ppp/1qb1p3/2bpP3/P7/2P2N2/1P3PPP/RNBQ1RK1 b k - 0 10
+Side to move: BLACK
+NNUE        : 56
+Handcrafted : 10
+Difference  : 46
+Best move   : b6a6
+
+====================================
+FEN: 1r2k1nr/pp3ppp/q1b1p3/2bpP3/P6P/2P2N2/1P3PP1/RNBQ1RK1 b k - 0 11
+Side to move: BLACK
+NNUE        : 195
+Handcrafted : 0
+Difference  : 195
+Best move   : g8e7
+
+====================================
+FEN: 1r2k2r/pp2nppp/q1b1p3/2bpP3/P6P/2P2N2/1P3PP1/RNBQR1K1 b k - 2 12
+Side to move: BLACK
+NNUE        : 165
+Handcrafted : 40
+Difference  : 125
+Best move   : e7f5
+
+====================================
+FEN: 1r2k2r/pp3ppp/q1b1p3/2bpPn2/PP5P/2P2N2/5PP1/RNBQR1K1 b k - 0 13
+Side to move: BLACK
+NNUE        : 316
+Handcrafted : 60
+Difference  : 256
+Best move   : c5b6
+
+====================================
+FEN: 1r2k2r/pp3ppp/qbb1p3/3pPn2/PP5P/2P2N2/3N1PP1/R1BQR1K1 b k - 2 14
+Side to move: BLACK
+NNUE        : 361
+Handcrafted : 15
+Difference  : 346
+Best move   : b6f2
+
+====================================
+FEN: 1r2k2r/pp3ppp/q1b1p3/3pPn2/PP5P/2P2N2/3N1KP1/R1BQR3 b k - 0 15
+Side to move: BLACK
+NNUE        : 224
+Handcrafted : -155
+Difference  : 379
+Best move   : a6b6
+
+====================================
+FEN: 1r2k2r/pp3ppp/1qb1p3/3pPn2/PP5P/2P2N2/3NK1P1/R1BQR3 b k - 2 16
+Side to move: BLACK
+NNUE        : 405
+Handcrafted : -140
+Difference  : 545
+Best move   : b6e3
+
+====================================
+FEN: 1r2k2r/pp3ppp/2b1p3/3pPn2/PP5P/2P1qN2/3N2P1/R1BQRK2 b k - 4 17
+Side to move: BLACK
+NNUE        : 492
+Handcrafted : -150
+Difference  : 642
+Best move   : f5g3
+
+====================================
+FEN: rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+Side to move: WHITE
+NNUE        : 27
+Handcrafted : 0
+Difference  : 27
+Best move   : d2d4
+
+====================================
+FEN: rnbqkbnr/pp1ppppp/2p5/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2
+Side to move: WHITE
+NNUE        : 55
+Handcrafted : 60
+Difference  : -5
+Best move   : c1f4
+
+====================================
+FEN: rnbqkbnr/pp2pppp/2p5/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3
+Side to move: WHITE
+NNUE        : 39
+Handcrafted : 40
+Difference  : -1
+Best move   : c2c4
+
+====================================
+FEN: rnb1kbnr/pp2pppp/1qp5/3p4/2PP1B2/8/PP2PPPP/RN1QKBNR w KQkq - 1 4
+Side to move: WHITE
+NNUE        : 51
+Handcrafted : 20
+Difference  : 31
+Best move   : d1d2
+
+====================================
+FEN: rnb1kb1r/pp2pppp/1qp2n2/3p4/2PP1B2/8/PP1QPPPP/RN2KBNR w KQkq - 3 5
+Side to move: WHITE
+NNUE        : 26
+Handcrafted : -25
+Difference  : 51
+Best move   : b1c3
+
+====================================
+FEN: rn2kb1r/pp2pppp/1qp2n2/3p1b2/2PP1B2/2N5/PP1QPPPP/R3KBNR w KQkq - 5 6
+Side to move: WHITE
+NNUE        : 59
+Handcrafted : 5
+Difference  : 54
+Best move   : c4c5
+
+====================================
+FEN: rn2kb1r/pp2pppp/q1p2n2/2Pp1b2/3P1B2/2N5/PP1QPPPP/R3KBNR w KQkq - 1 7
+Side to move: WHITE
+NNUE        : 46
+Handcrafted : 30
+Difference  : 16
+Best move   : f2f3
+
+====================================
+FEN: rn2kb1r/pp2pppp/q1p2nb1/2Pp4/3P1B2/2N2P2/PP1QP1PP/R3KBNR w KQkq - 1 8
+Side to move: WHITE
+NNUE        : 188
+Handcrafted : 10
+Difference  : 178
+Best move   : g2g4
+
+====================================
+FEN: rn2kb1r/pp3ppp/q1p1pnb1/2Pp4/3P1BP1/2N2P2/PP1QP2P/R3KBNR w KQkq - 0 9
+Side to move: WHITE
+NNUE        : 190
+Handcrafted : -20
+Difference  : 210
+Best move   : h2h4
+
+====================================
+FEN: rn2k2r/pp2bppp/q1p1pnb1/2Pp4/3P1BPP/2N2P2/PP1QP3/R3KBNR w KQkq - 1 10
+Side to move: WHITE
+NNUE        : 283
+Handcrafted : -35
+Difference  : 318
+Best move   : h4h5
+
+====================================
+FEN: rn2k2r/pp2bppp/q1p1pn2/2Pp3P/3P1BP1/2Nb1P2/PP1QP3/R3KBNR w KQkq - 1 11
+Side to move: WHITE
+NNUE        : 243
+Handcrafted : -30
+Difference  : 273
+Best move   : h5h6
+
+====================================
+FEN: rn2k2r/pp2bppp/q1p1pn1P/1bPp4/3P1BP1/2N2P2/PP1QP3/R3KBNR w KQkq - 1 12
+Side to move: WHITE
+NNUE        : 371
+Handcrafted : -15
+Difference  : 386
+Best move   : h6g7
+
+====================================
+FEN: rn2k1r1/pp2bpPp/q1p1pn2/1bPp4/3P1BP1/2N2P2/PP1QP3/R3KBNR w KQq - 1 13
+Side to move: WHITE
+NNUE        : 453
+Handcrafted : 135
+Difference  : 318
+Best move   : c3b5
+
+====================================
+FEN: rn2k1r1/pp2bpPp/2p1pn2/1qPp4/3P1BP1/5P2/PP1QP3/R3KBNR w KQq - 0 14
+Side to move: WHITE
+NNUE        : 281
+Handcrafted : 115
+Difference  : 166
+Best move   : a2a4
+
+====================================
+FEN: rn2k1r1/pp2bpPp/q1p1pn2/2Pp4/P2P1BP1/5P2/1P1QP3/R3KBNR w KQq - 1 15
+Side to move: WHITE
+NNUE        : 362
+Handcrafted : 120
+Difference  : 242
+Best move   : g4g5
+
+====================================
+FEN: rn2k1r1/p3bpPp/qpp1pn2/2Pp2P1/P2P1B2/5P2/1P1QP3/R3KBNR w KQq - 0 16
+Side to move: WHITE
+NNUE        : 397
+Handcrafted : 140
+Difference  : 257
+Best move   : g5f6
+
+====================================
+FEN: rn2k1r1/p4pPp/qpp1pb2/2Pp4/P2P1B2/5P2/1P1QP3/R3KBNR w KQq - 0 17
+Side to move: WHITE
+NNUE        : 635
+Handcrafted : 335
+Difference  : 300
+Best move   : h1h7
+
+====================================
+FEN: rn2k1r1/p4pPR/q1p1pb2/1pPp4/P2P1B2/5P2/1P1QP3/R3KBN1 w Qq - 0 18
+Side to move: WHITE
+NNUE        : 671
+Handcrafted : 440
+Difference  : 231
+Best move   : h7h8
+
+====================================
+FEN: rn4rR/p2k1pP1/q1p1pb2/1pPp4/P2P1B2/5P2/1P1QP3/R3KBN1 w Q - 2 19
+Side to move: WHITE
+NNUE        : 507
+Handcrafted : 435
+Difference  : 72
+Best move   : e2e3
+
+====================================
+FEN: rnq3rR/p2k1pP1/2p1pb2/1pPp4/P2P1B2/4PP2/1P1Q4/R3KBN1 w Q - 1 20
+Side to move: WHITE
+NNUE        : 523
+Handcrafted : 455
+Difference  : 68
+Best move   : a4b5
+
+====================================
+FEN: rnq4R/p2k1pr1/2p1pb2/1PPp4/3P1B2/4PP2/1P1Q4/R3KBN1 w Q - 0 21
+Side to move: WHITE
+NNUE        : 581
+Handcrafted : 410
+Difference  : 171
+Best move   : b5c6
+
+====================================
+FEN: rn5R/p2k1pr1/2q1pb2/2Pp4/3P1B2/4PP2/1P1Q4/R3KBN1 w Q - 0 22
+Side to move: WHITE
+NNUE        : 644
+Handcrafted : 380
+Difference  : 264
+Best move   : g1e2
+
+====================================
+FEN: rn5R/p2k1pr1/4pb2/1qPp4/3P1B2/4PP2/1P1QN3/R3KB2 w Q - 2 23
+Side to move: WHITE
+NNUE        : 633
+Handcrafted : 430
+Difference  : 203
+Best move   : f4b8
+
+====================================
+FEN: 1r5R/p2k1pr1/4pb2/1qPp4/3P4/4PP2/1P1QN3/R3KB2 w Q - 0 24
+Side to move: WHITE
+NNUE        : 603
+Handcrafted : 380
+Difference  : 223
+Best move   : a1a7
+
+====================================
+FEN: 1r5R/Rq1k1pr1/4pb2/2Pp4/3P4/4PP2/1P1QN3/4KB2 w - - 1 25
+Side to move: WHITE
+NNUE        : 673
+Handcrafted : 490
+Difference  : 183
+Best move   : d2a5
+
+====================================
+FEN: 1r5R/Rq1k1pr1/4p3/Q1Ppb3/3P4/4PP2/1P2N3/4KB2 w - - 3 26
+Side to move: WHITE
+NNUE        : 667
+Handcrafted : 485
+Difference  : 182
+Best move   : d4e5
+
+====================================
+FEN: 1r5R/Rq1k1p2/4p3/Q1PpP3/8/4PP2/1P2N3/4KBr1 w - - 1 27
+Side to move: WHITE
+NNUE        : 644
+Handcrafted : 800
+Difference  : -156
+Best move   : e2g1
+
+====================================
+FEN: 1r5R/Rq1k4/4p3/Q1PpPp2/8/4PP2/1P6/4KBN1 w - f6 0 28
+Side to move: WHITE
+NNUE        : 1027
+Handcrafted : 1265
+Difference  : -238
+Best move   : f1b5
+
+====================================
+FEN: 1r5R/Rq2k3/4p3/QBPpPp2/8/4PP2/1P6/4K1N1 w - - 2 29
+Side to move: WHITE
+NNUE        : 1052
+Handcrafted : 1280
+Difference  : -228
+Best move   : a7b7
+
+====================================
+FEN: 7R/1r2k3/4p3/QBPpPp2/8/4PP2/1P6/4K1N1 w - - 0 30
+Side to move: WHITE
+NNUE        : 1138
+Handcrafted : 1675
+Difference  : -537
+Best move   : h8h7
+
+====================================
+FEN: 5k2/1r5R/4p3/QBPpPp2/8/4PP2/1P6/4K1N1 w - - 2 31
+Side to move: WHITE
+NNUE        : 892
+Handcrafted : 1670
+Difference  : -778
+Best move   : a5d8
+
+====================================
+FEN: rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+Side to move: WHITE
+NNUE        : 27
+Handcrafted : 0
+Difference  : 27
+Best move   : d2d4
+
+====================================
+FEN: rnbqkbnr/pppppp1p/6p1/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2
+Side to move: WHITE
+NNUE        : 42
+Handcrafted : 55
+Difference  : -13
+Best move   : e2e4
+
+====================================
+FEN: rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+Side to move: WHITE
+NNUE        : 24
+Handcrafted : 0
+Difference  : 24
+Best move   : d2d4
+
+====================================
+FEN: rnbqkbnr/ppp1pp1p/3p2p1/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3
+Side to move: WHITE
+NNUE        : 77
+Handcrafted : 75
+Difference  : 2
+Best move   : h2h4
+
+====================================
+FEN: rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2
+Side to move: WHITE
+NNUE        : 24
+Handcrafted : 0
+Difference  : 24
+Best move   : g1f3
+
+====================================
+FEN: rnbqkbnr/ppp1pp2/3p2pp/8/3PP2P/8/PPP2PP1/RNBQKBNR w KQkq - 0 4
+Side to move: WHITE
+NNUE        : 89
+Handcrafted : 70
+Difference  : 19
+Best move   : h4h5
+
+====================================
+FEN: rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3
+Side to move: WHITE
+NNUE        : 18
+Handcrafted : 0
+Difference  : 18
+Best move   : c2c4
+
+====================================
+FEN: rnbqkbnr/ppp1pp2/3p3p/6pP/3PP3/8/PPP2PP1/RNBQKBNR w KQkq - 0 5
+Side to move: WHITE
+NNUE        : 98
+Handcrafted : 70
+Difference  : 28
+Best move   : b1c3
+
+====================================
+FEN: rnbqkb1r/ppp1pppp/5n2/8/2pP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4
+Side to move: WHITE
+NNUE        : 45
+Handcrafted : -100
+Difference  : 145
+Best move   : e2e3
+
+====================================
+FEN: rnbqk1nr/ppp1ppb1/3p3p/6pP/3PP3/2N5/PPP2PP1/R1BQKBNR w KQkq - 2 6
+Side to move: WHITE
+NNUE        : 80
+Handcrafted : 105
+Difference  : -25
+Best move   : c1e3
+
+====================================
+FEN: rnbqkb1r/p1p1pppp/5n2/1p6/2pP4/4PN2/PP3PPP/RNBQKB1R w KQkq - 0 5
+Side to move: WHITE
+NNUE        : 58
+Handcrafted : -70
+Difference  : 128
+Best move   : a2a4
+
+====================================
+FEN: rn1qkb1r/p1pbpppp/5n2/1p6/P1pP4/4PN2/1P3PPP/RNBQKB1R w KQkq - 1 6
+Side to move: WHITE
+NNUE        : 164
+Handcrafted : -85
+Difference  : 249
+Best move   : a4b5
+
+====================================
+FEN: rnbqk1nr/ppp2pb1/3p3p/4p1pP/3PP3/2N1B3/PPP2PP1/R2QKBNR w KQkq - 0 7
+Side to move: WHITE
+NNUE        : 116
+Handcrafted : 85
+Difference  : 31
+Best move   : d1d2
+
+====================================
+FEN: rn1qkb1r/p1p1pppp/5n2/1b6/2pP4/4PN2/1P3PPP/RNBQKB1R w KQkq - 0 7
+Side to move: WHITE
+NNUE        : 296
+Handcrafted : -85
+Difference  : 381
+Best move   : b1c3
+
+====================================
+FEN: rn1qkb1r/p1p1pppp/2b2n2/8/2pP4/2N1PN2/1P3PPP/R1BQKB1R w KQkq - 2 8
+Side to move: WHITE
+NNUE        : 151
+Handcrafted : -45
+Difference  : 196
+Best move   : f1c4
+
+====================================
+FEN: rn1qkb1r/p1p2ppp/2b1pn2/8/2BP4/2N1PN2/1P3PPP/R1BQK2R w KQkq - 0 9
+Side to move: WHITE
+NNUE        : 161
+Handcrafted : 65
+Difference  : 96
+Best move   : f3e5
+
+====================================
+FEN: rnbqk2r/ppp2pb1/3p1n1p/4p1pP/3PP3/2N1B3/PPPQ1PP1/R3KBNR w KQkq - 2 8
+Side to move: WHITE
+NNUE        : 139
+Handcrafted : 40
+Difference  : 99
+Best move   : d4e5
+
+====================================
+FEN: rn1qkb1r/p1p2ppp/4pn2/4N3/2BP4/2N1P3/1P3PbP/R1BQK2R w KQkq - 0 10
+Side to move: WHITE
+NNUE        : 246
+Handcrafted : -25
+Difference  : 271
+Best move   : h1g1
+
+====================================
+FEN: rnbqk2r/ppp2pb1/3p3p/4P1pP/4P1n1/2N1B3/PPPQ1PP1/R3KBNR w KQkq - 1 9
+Side to move: WHITE
+NNUE        : 242
+Handcrafted : 170
+Difference  : 72
+Best move   : e5d6
+
+====================================
+FEN: rn1qkb1r/p1p2ppp/4pn2/3bN3/2BP4/2N1P3/1P3P1P/R1BQK1R1 w Qkq - 2 11
+Side to move: WHITE
+NNUE        : 344
+Handcrafted : -35
+Difference  : 379
+Best move   : c3d5
+
+====================================
+FEN: rnbqk2r/ppp2pb1/3P3p/6pP/4P3/2N1n3/PPPQ1PP1/R3KBNR w KQkq - 0 10
+Side to move: WHITE
+NNUE        : 355
+Handcrafted : -45
+Difference  : 400
+Best move   : d2e3
+
+====================================
+FEN: rn1qkb1r/p1p2ppp/5n2/3pN3/2BP4/4P3/1P3P1P/R1BQK1R1 w Qkq - 0 12
+Side to move: WHITE
+NNUE        : 399
+Handcrafted : -55
+Difference  : 454
+Best move   : d1a4
+
+====================================
+FEN: rnbq1rk1/ppp2pb1/3P3p/6pP/4P3/2N1Q3/PPP2PP1/R3KBNR w KQ - 1 11
+Side to move: WHITE
+NNUE        : 256
+Handcrafted : 245
+Difference  : 11
+Best move   : g1f3
+
+====================================
+FEN: r2qkb1r/p1pn1ppp/5n2/3pN3/Q1BP4/4P3/1P3P1P/R1B1K1R1 w Qkq - 2 13
+Side to move: WHITE
+NNUE        : 575
+Handcrafted : -95
+Difference  : 670
+Best move   : c4b5
+
+====================================
+FEN: rnb2rk1/ppp2pb1/3q3p/6pP/4P3/2N1QN2/PPP2PP1/R3KB1R w KQ - 0 12
+Side to move: WHITE
+NNUE        : 163
+Handcrafted : 155
+Difference  : 8
+Best move   : e4e5
+
+====================================
+FEN: r3kb1r/p1pnqppp/5n2/1B1pN3/Q2P4/4P3/1P3P1P/R1B1K1R1 w Qkq - 4 14
+Side to move: WHITE
+NNUE        : 474
+Handcrafted : -105
+Difference  : 579
+Best move   : c1d2
+
+====================================
+FEN: r3kb1r/p1pn1ppp/3q1n2/1B1pN3/Q2P4/4P3/1P1B1P1P/R3K1R1 w Qkq - 6 15
+Side to move: WHITE
+NNUE        : 477
+Handcrafted : -100
+Difference  : 577
+Best move   : b5c6
+
+====================================
+FEN: rnb2rk1/ppp2pb1/4q2p/4P1pP/8/2N1QN2/PPP2PP1/R3KB1R w KQ - 1 13
+Side to move: WHITE
+NNUE        : 219
+Handcrafted : 160
+Difference  : 59
+Best move   : e1c1
+
+====================================
+FEN: 1r2kb1r/p1pn1ppp/2Bq1n2/3pN3/Q2P4/4P3/1P1B1P1P/R3K1R1 w Qk - 8 16
+Side to move: WHITE
+NNUE        : 471
+Handcrafted : -100
+Difference  : 571
+Best move   : d2c3
+
+====================================
+FEN: rnb2rk1/ppp2pb1/4q2p/4P2P/6p1/2N1QN2/PPP2PP1/2KR1B1R w - - 0 14
+Side to move: WHITE
+NNUE        : 374
+Handcrafted : 170
+Difference  : 204
+Best move   : f3g5
+
+====================================
+FEN: 4kb1r/p1pn1ppp/1rBq1n2/3pN3/Q2P4/2B1P3/1P3P1P/R3K1R1 w Qk - 10 17
+Side to move: WHITE
+NNUE        : 459
+Handcrafted : -90
+Difference  : 549
+Best move   : a1c1
+
+====================================
+FEN: rnb2rk1/ppp2pb1/7p/4q1NP/6p1/2N1Q3/PPP2PP1/2KR1B1R w - - 0 15
+Side to move: WHITE
+NNUE        : 137
+Handcrafted : 40
+Difference  : 97
+Best move   : e3e5
+
+====================================
+FEN: 4kb1r/2pn1ppp/prBq1n2/3pN3/Q2P4/2B1P3/1P3P1P/2R1K1R1 w k - 0 18
+Side to move: WHITE
+NNUE        : 452
+Handcrafted : -90
+Difference  : 542
+Best move   : c3a5
+
+====================================
+FEN: rnb2rk1/ppp2p2/7p/4b1NP/6p1/2N5/PPP2PP1/2KR1B1R w - - 0 16
+Side to move: WHITE
+NNUE        : 383
+Handcrafted : 55
+Difference  : 328
+Best move   : g5f7
+
+====================================
+FEN: 4kb1r/2pn1ppp/p1Bq1n2/B2pN3/Q2P4/4P3/1r3P1P/2R1K1R1 w k - 0 19
+Side to move: WHITE
+NNUE        : 266
+Handcrafted : -230
+Difference  : 496
+Best move   : a5c3
+
+====================================
+FEN: rnb2rk1/ppp2N2/7p/7P/5bp1/2N5/PPP2PP1/2KR1B1R w - - 1 17
+Side to move: WHITE
+NNUE        : 444
+Handcrafted : 165
+Difference  : 279
+Best move   : c1b1
+
+====================================
+FEN: 4kb1r/2pn1ppp/prBq1n2/3pN3/Q2P4/2B1P3/5P1P/2R1K1R1 w k - 2 20
+Side to move: WHITE
+NNUE        : 348
+Handcrafted : -200
+Difference  : 548
+Best move   : c3a5
+
+====================================
+FEN: rnb2r2/ppp2k2/7p/7P/5bp1/2N5/PPP2PP1/1K1R1B1R w - - 0 18
+Side to move: WHITE
+NNUE        : 312
+Handcrafted : -165
+Difference  : 477
+Best move   : f1d3
+
+====================================
+FEN: 4kb1r/2pn1ppp/p1Bq1n2/B2pN3/Q2P4/4P3/1r3P1P/2R1K1R1 w k - 4 21
+Side to move: WHITE
+NNUE        : 266
+Handcrafted : -230
+Difference  : 496
+Best move   : a5c3
+
+====================================
+FEN: 4kb1r/2pn1ppp/prBq1n2/3pN3/Q2P4/2B1P3/5P1P/2R1K1R1 w k - 6 22
+Side to move: WHITE
+NNUE        : 348
+Handcrafted : -200
+Difference  : 548
+Best move   : c3a5
+
+====================================
+FEN: rnb2r2/ppp2k2/7p/6bP/6p1/2NB4/PPP2PP1/1K1R3R w - - 2 19
+Side to move: WHITE
+NNUE        : 372
+Handcrafted : -140
+Difference  : 512
+Best move   : c3d5
+
+====================================
+FEN: rnb2r2/pp3k2/2p4p/3N2bP/6p1/3B4/PPP2PP1/1K1R3R w - - 0 20
+Side to move: WHITE
+NNUE        : 335
+Handcrafted : -110
+Difference  : 445
+Best move   : d5c7
+
+====================================
+FEN: rnb2r2/ppN2k2/2p4p/7P/5bp1/3B4/PPP2PP1/1K1R3R w - - 2 21
+Side to move: WHITE
+NNUE        : 220
+Handcrafted : -135
+Difference  : 355
+Best move   : c7a8
+
+====================================
+FEN: Nnb2r2/pp6/2p2k1p/7P/5bp1/3B4/PPP2PP1/1K1R3R w - - 1 22
+Side to move: WHITE
+NNUE        : 507
+Handcrafted : 295
+Difference  : 212
+Best move   : g2g3
+
+====================================
+FEN: Nnb2r2/pp6/2p2k1p/6bP/6p1/3B2P1/PPP2P2/1K1R3R w - - 1 23
+Side to move: WHITE
+NNUE        : 503
+Handcrafted : 285
+Difference  : 218
+Best move   : a8c7
+
+====================================
+FEN: 1nb2r2/1pN5/p1p2k1p/6bP/6p1/3B2P1/PPP2P2/1K1R3R w - - 0 24
+Side to move: WHITE
+NNUE        : 512
+Handcrafted : 335
+Difference  : 177
+Best move   : f2f4
+
+====================================
+FEN: 1nb2r2/1pN5/p1p2k1p/6bP/8/3B1pP1/PPP5/1K1R3R w - - 0 25
+Side to move: WHITE
+NNUE        : 476
+Handcrafted : 210
+Difference  : 266
+Best move   : c7a6
+
+====================================
+FEN: rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+Side to move: WHITE
+NNUE        : 24
+Handcrafted : 0
+Difference  : 24
+Best move   : d2d4
+
+====================================
+FEN: 2b2r2/1p6/n1p2k1p/6bP/8/3B1pP1/PPP5/1K1R3R w - - 0 26
+Side to move: WHITE
+NNUE        : 555
+Handcrafted : 5
+Difference  : 550
+Best move   : b2b3
+
+====================================
+FEN: 5r2/1p6/n1p2k1p/6bP/6b1/1P1B1pP1/P1P5/1K1R3R w - - 1 27
+Side to move: WHITE
+NNUE        : 457
+Handcrafted : -25
+Difference  : 482
+Best move   : b1b2
+
+====================================
+FEN: rnbqkbnr/pppppp1p/6p1/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2
+Side to move: WHITE
+NNUE        : 48
+Handcrafted : 55
+Difference  : -7
+Best move   : e2e4
+
+====================================
+FEN: 5r2/1p6/2p2k1p/6bP/1n4b1/1P1B1pP1/PKP5/3R3R w - - 3 28
+Side to move: WHITE
+NNUE        : 439
+Handcrafted : -60
+Difference  : 499
+Best move   : d3e4
+
+====================================
+FEN: 5r2/1p2k3/2p4p/6bP/1n2B1b1/1P3pP1/PKP5/3R3R w - - 5 29
+Side to move: WHITE
+NNUE        : 407
+Handcrafted : -40
+Difference  : 447
+Best move   : e4c6
+
+====================================
+FEN: 5r2/1p2k3/2n4p/6bP/6b1/1P3pP1/PKP5/3R3R w - - 0 30
+Side to move: WHITE
+NNUE        : 348
+Handcrafted : -265
+Difference  : 613
+Best move   : d1d5
+
+====================================
+FEN: rnbqk1nr/ppppppbp/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3
+Side to move: WHITE
+NNUE        : 85
+Handcrafted : 80
+Difference  : 5
+Best move   : b1c3
+
+====================================
+FEN: 5r2/1p6/2n1k2p/3R2bP/6b1/1P3pP1/PKP5/7R w - - 2 31
+Side to move: WHITE
+NNUE        : 7
+Handcrafted : -300
+Difference  : 307
+Best move   : d5b5
+
+====================================
+FEN: rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4
+Side to move: WHITE
+NNUE        : 92
+Handcrafted : 110
+Difference  : -18
+Best move   : c1e3
+
+====================================
+FEN: 8/1p3r2/2n1k2p/1R4bP/6b1/1P3pP1/PKP5/7R w - - 4 32
+Side to move: WHITE
+NNUE        : 7
+Handcrafted : -300
+Difference  : 307
+Best move   : h1e1
+
+====================================
+FEN: 8/1p3r2/2n2k1p/1R4bP/6b1/1P3pP1/PKP5/4R3 w - - 6 33
+Side to move: WHITE
+NNUE        : 219
+Handcrafted : -285
+Difference  : 504
+Best move   : e1e4
+
+====================================
+FEN: rnbqk2r/ppp1ppbp/3p1np1/8/3PP3/2N1B3/PPP2PPP/R2QKBNR w KQkq - 2 5
+Side to move: WHITE
+NNUE        : 83
+Handcrafted : 80
+Difference  : 3
+Best move   : f2f3
+
+====================================
+FEN: 8/1p3r2/2n2k1p/1R4bb/4R3/1P3pP1/PKP5/8 w - - 0 34
+Side to move: WHITE
+NNUE        : 171
+Handcrafted : -380
+Difference  : 551
+Best move   : e4c4
+
+====================================
+FEN: 8/1p3rk1/2n4p/1R4bb/2R5/1P3pP1/PKP5/8 w - - 2 35
+Side to move: WHITE
+NNUE        : -43
+Handcrafted : -330
+Difference  : 287
+Best move   : c4c6
+
+====================================
+FEN: rnbq1rk1/ppp1ppbp/3p1np1/8/3PP3/2N1BP2/PPP3PP/R2QKBNR w KQ - 1 6
+Side to move: WHITE
+NNUE        : 91
+Handcrafted : 30
+Difference  : 61
+Best move   : h2h4
+
+====================================
+FEN: 8/1p3rk1/2R4p/1R4b1/6b1/1P3pP1/PKP5/8 w - - 1 36
+Side to move: WHITE
+NNUE        : -14
+Handcrafted : -35
+Difference  : 21
+Best move   : b5b4
+
+====================================
+FEN: 8/5rk1/2p4p/6b1/1R4b1/1P3pP1/PKP5/8 w - - 0 37
+Side to move: WHITE
+NNUE        : -26
+Handcrafted : -515
+Difference  : 489
+Best move   : b4g4
+
+====================================
+FEN: rnbq1rk1/ppp1ppb1/3p1np1/7p/3PP2P/2N1BP2/PPP3P1/R2QKBNR w KQ - 0 7
+Side to move: WHITE
+NNUE        : 177
+Handcrafted : 30
+Difference  : 147
+Best move   : d1d2
+
+====================================
+FEN: 8/6k1/2p4p/5rb1/6R1/1P3pP1/PKP5/8 w - - 1 38
+Side to move: WHITE
+NNUE        : 327
+Handcrafted : -210
+Difference  : 537
+Best move   : g4a4
+
+====================================
+FEN: rnbq1rk1/pp2ppb1/3p1np1/2p4p/3PP2P/2N1BP2/PPPQ2P1/R3KBNR w KQ - 0 8
+Side to move: WHITE
+NNUE        : 259
+Handcrafted : 45
+Difference  : 214
+Best move   : d4c5
+
+====================================
+FEN: 8/6k1/2p2b1p/5r2/R7/1P3pP1/PKP5/8 w - - 3 39
+Side to move: WHITE
+NNUE        : 218
+Handcrafted : -225
+Difference  : 443
+Best move   : c2c3
+
+====================================
+FEN: 8/6k1/2p2b1p/5r2/R7/1PP3P1/PK3p2/8 w - - 0 40
+Side to move: WHITE
+NNUE        : 70
+Handcrafted : -275
+Difference  : 345
+Best move   : a4a7
+
+====================================
+FEN: r1bq1rk1/pp2ppb1/2np1np1/2P4p/4P2P/2N1BP2/PPPQ2P1/R3KBNR w KQ - 1 9
+Side to move: WHITE
+NNUE        : 217
+Handcrafted : 85
+Difference  : 132
+Best move   : c5d6
+
+====================================
+FEN: 6k1/R7/2p2b1p/5r2/8/1PP3P1/PK3p2/8 w - - 2 41
+Side to move: WHITE
+NNUE        : -36
+Handcrafted : -265
+Difference  : 229
+Best move   : a7a8
+
+====================================
+FEN: r1bq1rk1/pp3pb1/2np1np1/7p/4P2P/2N1BP2/PPPQ2P1/R3KBNR w KQ - 0 10
+Side to move: WHITE
+NNUE        : 282
+Handcrafted : 55
+Difference  : 227
+Best move   : f1c4
+
+====================================
+FEN: R7/5k2/2p2b1p/5r2/8/1PP3P1/PK3p2/8 w - - 4 42
+Side to move: WHITE
+NNUE        : 202
+Handcrafted : -300
+Difference  : 502
+Best move   : a8a7
+
+====================================
+FEN: r1bq1rk1/pp3pb1/3p1np1/4n2p/2B1P2P/2N1BP2/PPPQ2P1/R3K1NR w KQ - 2 11
+Side to move: WHITE
+NNUE        : 292
+Handcrafted : 65
+Difference  : 227
+Best move   : c4b3
+
+====================================
+FEN: 8/R7/2p2bkp/5r2/8/1PP3P1/PK3p2/8 w - - 6 43
+Side to move: WHITE
+NNUE        : 181
+Handcrafted : -285
+Difference  : 466
+Best move   : a7d7
+
+====================================
+FEN: 8/3R4/2p2bkp/5r2/8/1PP3P1/PK6/5r2 w - - 0 44
+Side to move: WHITE
+NNUE        : 216
+Handcrafted : -630
+Difference  : 846
+Best move   : d7d6
+
+====================================
+FEN: r1bq1rk1/pp3pb1/5np1/3pn2p/4P2P/1BN1BP2/PPPQ2P1/R3K1NR w KQ - 0 12
+Side to move: WHITE
+NNUE        : 294
+Handcrafted : 45
+Difference  : 249
+Best move   : c3d5
+
+====================================
+FEN: r2q1rk1/pp3pb1/4bnp1/3Nn2p/4P2P/1B2BP2/PPPQ2P1/R3K1NR w KQ - 1 13
+Side to move: WHITE
+NNUE        : 303
+Handcrafted : 155
+Difference  : 148
+Best move   : d5f6
+
+====================================
+FEN: r2q1rk1/pp3p2/4bbp1/4n2p/4P2P/1B2BP2/PPPQ2P1/R3K1NR w KQ - 0 14
+Side to move: WHITE
+NNUE        : 264
+Handcrafted : 140
+Difference  : 124
+Best move   : d2d8
+
+====================================
+FEN: 8/8/2pR1bkp/3r4/8/1PP3P1/PK6/5r2 w - - 2 45
+Side to move: WHITE
+NNUE        : 175
+Handcrafted : -640
+Difference  : 815
+Best move   : d6c6
+
+====================================
+FEN: r2b1rk1/pp3p2/4b1p1/4n2p/4P2P/1B2BP2/PPP3P1/R3K1NR w KQ - 0 15
+Side to move: WHITE
+NNUE        : 271
+Handcrafted : 185
+Difference  : 86
+Best move   : b3e6
+
+====================================
+FEN: r4rk1/pp3p2/4B1p1/b3n2p/4P2P/4BP2/PPP3P1/R3K1NR w KQ - 1 16
+Side to move: WHITE
+NNUE        : 516
+Handcrafted : 495
+Difference  : 21
+Best move   : c2c3
+
+====================================
+FEN: 8/8/2R2bkp/3r4/8/1PP3P1/PK3r2/8 w - - 1 46
+Side to move: WHITE
+NNUE        : 50
+Handcrafted : -560
+Difference  : 610
+Best move   : b2a3
+
+====================================
+FEN: r4rk1/pp3p2/1b2B1p1/4n2p/4P2P/2P1BP2/PP4P1/R3K1NR w KQ - 1 17
+Side to move: WHITE
+NNUE        : 541
+Handcrafted : 455
+Difference  : 86
+Best move   : e3b6
+
+====================================
+FEN: r4rk1/pp3p2/1B2B1p1/7p/4P2P/2Pn1P2/PP4P1/R3K1NR w KQ - 1 18
+Side to move: WHITE
+NNUE        : 701
+Handcrafted : 760
+Difference  : -59
+Best move   : e1d2
+
+====================================
+FEN: 8/8/2R2bkp/r7/8/KPP3P1/P4r2/8 w - - 3 47
+Side to move: WHITE
+NNUE        : -9
+Handcrafted : -555
+Difference  : 546
+Best move   : a3b4
+
+====================================
+FEN: r4rk1/pp6/1B2p1p1/7p/4P2P/2Pn1P2/PP1K2P1/R5NR w - - 0 19
+Side to move: WHITE
+NNUE        : 522
+Handcrafted : 490
+Difference  : 32
+Best move   : b6d4
+
+====================================
+FEN: 8/8/2R2bkp/8/1K6/1PP3P1/r4r2/8 w - - 0 48
+Side to move: WHITE
+NNUE        : -43
+Handcrafted : -650
+Difference  : 607
+Best move   : g3g4
+
+====================================
+FEN: r4rk1/pp6/6p1/4p2p/3BP2P/2Pn1P2/PP1K2P1/R5NR w - - 0 20
+Side to move: WHITE
+NNUE        : 529
+Handcrafted : 480
+Difference  : 49
+Best move   : d2d3
+
+====================================
+FEN: r2r2k1/pp6/6p1/4p2p/3BP2P/2PK1P2/PP4P1/R5NR w - - 1 21
+Side to move: WHITE
+NNUE        : 492
+Handcrafted : 820
+Difference  : -328
+Best move   : g1e2
+
+====================================
+FEN: 8/8/2R2b1p/6k1/1K4P1/1PP5/r4r2/8 w - - 1 49
+Side to move: WHITE
+NNUE        : 11
+Handcrafted : -645
+Difference  : 656
+Best move   : b4b5
+
+====================================
+FEN: r2r4/pp3k2/6p1/4p2p/3BP2P/2PK1P2/PP2N1P1/R6R w - - 3 22
+Side to move: WHITE
+NNUE        : 526
+Handcrafted : 835
+Difference  : -309
+Best move   : d3d2
+
+====================================
+FEN: 8/8/2R2b1p/1K4k1/6P1/1PP2r2/r7/8 w - - 3 50
+Side to move: WHITE
+NNUE        : 213
+Handcrafted : -635
+Difference  : 848
+Best move   : c6c5
+
+====================================
+FEN: r7/pp3k2/3r2p1/4p2p/3BP2P/2P2P2/PP1KN1P1/R6R w - - 5 23
+Side to move: WHITE
+NNUE        : 565
+Handcrafted : 810
+Difference  : -245
+Best move   : d2e1
+
+====================================
+FEN: r7/pp3k2/3r2p1/7p/3pP2P/2P2P2/PP2N1P1/R3K2R w - - 0 24
+Side to move: WHITE
+NNUE        : 599
+Handcrafted : 465
+Difference  : 134
+Best move   : c3d4
+
+====================================
+FEN: 8/8/5b1p/1KR5/6Pk/1PP2r2/r7/8 w - - 5 51
+Side to move: WHITE
+NNUE        : 426
+Handcrafted : -615
+Difference  : 1041
+Best move   : g4g5
+
+====================================
+FEN: r7/1p3k2/3r2p1/p6p/3PP2P/5P2/PP2N1P1/R3K2R w - - 0 25
+Side to move: WHITE
+NNUE        : 619
+Handcrafted : 625
+Difference  : -6
+Best move   : a1c1
+
+====================================
+FEN: 8/8/7p/1KR3b1/7k/1PP2r2/r7/8 w - - 0 52
+Side to move: WHITE
+NNUE        : 245
+Handcrafted : -705
+Difference  : 950
+Best move   : c5c7
+
+====================================
+FEN: r7/1p3k2/2r3p1/p6p/3PP2P/5P2/PP2N1P1/2R1K2R w - - 2 26
+Side to move: WHITE
+NNUE        : 747
+Handcrafted : 625
+Difference  : 122
+Best move   : c1c6
+
+====================================
+FEN: 8/2R5/7p/1K3rb1/7k/1PP5/r7/8 w - - 2 53
+Side to move: WHITE
+NNUE        : 400
+Handcrafted : -695
+Difference  : 1095
+Best move   : b5c4
+
+====================================
+FEN: r7/5k2/2p3p1/p6p/3PP2P/5P2/PP2N1P1/4K2R w - - 0 27
+Side to move: WHITE
+NNUE        : 601
+Handcrafted : 645
+Difference  : -44
+Best move   : e1f2
+
+====================================
+FEN: 8/2R5/7p/5rb1/2K3k1/1PP5/r7/8 w - - 4 54
+Side to move: WHITE
+NNUE        : 40
+Handcrafted : -675
+Difference  : 715
+Best move   : b3b4
+
+====================================
+FEN: r7/6k1/2p3p1/p6p/3PP2P/5P2/PP2NKP1/7R w - - 2 28
+Side to move: WHITE
+NNUE        : 794
+Handcrafted : 705
+Difference  : 89
+Best move   : h1c1
+
+====================================
+FEN: 8/2R5/7p/5rb1/1PK3k1/2P5/1r6/8 w - - 1 55
+Side to move: WHITE
+NNUE        : 245
+Handcrafted : -675
+Difference  : 920
+Best move   : c7g7
+
+====================================
+FEN: 1r6/6k1/2p3p1/p6p/3PP2P/5P2/PP2NKP1/2R5 w - - 4 29
+Side to move: WHITE
+NNUE        : 591
+Handcrafted : 705
+Difference  : -114
+Best move   : c1c6
+
+====================================
+FEN: 8/6R1/7p/5rb1/1PK3k1/2P5/8/1r6 w - - 3 56
+Side to move: WHITE
+NNUE        : 264
+Handcrafted : -665
+Difference  : 929
+Best move   : g7g6
+
+====================================
+FEN: 8/6k1/2R3p1/p6p/3PP2P/5P2/Pr2NKP1/8 w - - 0 30
+Side to move: WHITE
+NNUE        : 633
+Handcrafted : 675
+Difference  : -42
+Best move   : c6c7
+
+====================================
+FEN: 6k1/2R5/6p1/p6p/3PP2P/5P2/Pr2NKP1/8 w - - 2 31
+Side to move: WHITE
+NNUE        : 699
+Handcrafted : 685
+Difference  : 14
+Best move   : a2a3
+
+====================================
+FEN: 8/8/6Rp/5rb1/1PK3k1/2P5/1r6/8 w - - 5 57
+Side to move: WHITE
+NNUE        : 132
+Handcrafted : -685
+Difference  : 817
+Best move   : g6d6
+
+====================================
+FEN: 6k1/2R5/6p1/7p/p2PP2P/P4P2/1r2NKP1/8 w - - 0 32
+Side to move: WHITE
+NNUE        : 696
+Handcrafted : 680
+Difference  : 16
+Best move   : d4d5
+
+====================================
+FEN: 8/8/3R3p/6b1/1PK3k1/2P2r2/1r6/8 w - - 7 58
+Side to move: WHITE
+NNUE        : -52
+Handcrafted : -685
+Difference  : 633
+Best move   : d6d4
+
+====================================
+FEN: 6k1/2R5/8/3P2pp/p3P2P/P4P2/1r2NKP1/8 w - - 0 33
+Side to move: WHITE
+NNUE        : 672
+Handcrafted : 680
+Difference  : -8
+Best move   : h4g5
+
+====================================
+FEN: 8/8/7p/6b1/1PKR1rk1/2P5/1r6/8 w - - 9 59
+Side to move: WHITE
+NNUE        : 37
+Handcrafted : -685
+Difference  : 722
+Best move   : b4b5
+
+====================================
+FEN: 6k1/2R5/8/3P2Pp/p3P3/P4P2/3rNKP1/8 w - - 1 34
+Side to move: WHITE
+NNUE        : 843
+Handcrafted : 785
+Difference  : 58
+Best move   : f2e3
+
+====================================
+FEN: 6k1/2R5/8/3P2Pp/p3P3/P3KP2/4N1P1/3r4 w - - 3 35
+Side to move: WHITE
+NNUE        : 620
+Handcrafted : 825
+Difference  : -205
+Best move   : e3f4
+
+====================================
+FEN: 8/8/8/1P4bp/2KR1rk1/2P5/1r6/8 w - - 0 60
+Side to move: WHITE
+NNUE        : 21
+Handcrafted : -675
+Difference  : 696
+Best move   : d4f4
+
+====================================
+FEN: 6k1/2R5/8/3P2Pp/p3PK2/P4P2/4N1P1/r7 w - - 5 36
+Side to move: WHITE
+NNUE        : 782
+Handcrafted : 825
+Difference  : -43
+Best move   : f4e5
+
+====================================
+FEN: 8/8/8/1P5p/2K2bk1/2P5/1r6/8 w - - 0 61
+Side to move: WHITE
+NNUE        : -384
+Handcrafted : -680
+Difference  : 296
+Best move   : c4c5
+
+====================================
+FEN: 6k1/2R5/8/3PK1P1/p3P2p/P4P2/4N1P1/r7 w - - 0 37
+Side to move: WHITE
+NNUE        : 1140
+Handcrafted : 830
+Difference  : 310
+Best move   : e5f6
+
+====================================
+FEN: 8/8/8/1PK5/5bkp/2P5/1r6/8 w - - 0 62
+Side to move: WHITE
+NNUE        : -251
+Handcrafted : -685
+Difference  : 434
+Best move   : c5c6
+
+====================================
+FEN: 6k1/2R5/5K2/3P2P1/p3P2p/r4P2/4N1P1/8 w - - 0 38
+Side to move: WHITE
+NNUE        : 1148
+Handcrafted : 710
+Difference  : 438
+Best move   : c7c8
+
+====================================
+FEN: 8/8/2K5/1P6/5bkp/2P5/8/1r6 w - - 2 63
+Side to move: WHITE
+NNUE        : 368
+Handcrafted : -685
+Difference  : 1053
+Best move   : c3c4
+
+====================================
+FEN: 2R5/7k/5K2/3P2P1/p3P2p/r4P2/4N1P1/8 w - - 2 39
+Side to move: WHITE
+NNUE        : 925
+Handcrafted : 700
+Difference  : 225
+Best move   : g5g6
+
+====================================
+FEN: 2R5/8/5KPk/3P4/p3P2p/r4P2/4N1P1/8 w - - 1 40
+Side to move: WHITE
+NNUE        : 1123
+Handcrafted : 705
+Difference  : 418
+Best move   : c8h8
+
+====================================
+FEN: 8/8/2K5/1P6/2P2bk1/7p/8/1r6 w - - 0 64
+Side to move: WHITE
+NNUE        : -71
+Handcrafted : -680
+Difference  : 609
+Best move   : b5b6
+
+====================================
+FEN: 8/8/1PK5/8/2P3k1/6bp/8/1r6 w - - 1 65
+Side to move: WHITE
+NNUE        : 84
+Handcrafted : -670
+Difference  : 754
+Best move   : c4c5
+
+====================================
+FEN: 8/8/1PK5/2P5/6k1/6b1/7p/1r6 w - - 0 66
+Side to move: WHITE
+NNUE        : 432
+Handcrafted : -700
+Difference  : 1132
+Best move   : c6d7
+
+====================================
+FEN: 8/3K4/1P6/2P5/6k1/6b1/8/1r5q w - - 0 67
+Side to move: WHITE
+NNUE        : 437
+Handcrafted : -1470
+Difference  : 1907
+Best move   : d7e7
+
+====================================
+FEN: 8/4K3/1P6/2P5/6k1/6b1/8/4r2q w - - 2 68
+Side to move: WHITE
+NNUE        : 5
+Handcrafted : -1470
+Difference  : 1475
+Best move   : e7f8
+
+====================================
+FEN: 5K2/7q/1P6/2P5/6k1/6b1/8/4r3 w - - 4 69
+Side to move: WHITE
+NNUE        : 387
+Handcrafted : -1470
+Difference  : 1857
+Best move   : b6b7
+
+====================================
+FEN: 5K2/1q6/8/2P5/6k1/6b1/8/4r3 w - - 0 70
+Side to move: WHITE
+NNUE        : -388
+Handcrafted : -1590
+Difference  : 1202
+Best move   : c5c6
+
+====================================
+FEN: 5K2/2q5/2P5/8/6k1/6b1/8/4r3 w - - 1 71
+Side to move: WHITE
+NNUE        : -504
+Handcrafted : -1585
+Difference  : 1081
+Best move   : f8g8
+
+====================================
+FEN: rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+Side to move: WHITE
+NNUE        : 24
+Handcrafted : 0
+Difference  : 24
+Best move   : d2d4
+
+====================================
+FEN: rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2
+Side to move: WHITE
+NNUE        : 27
+Handcrafted : -10
+Difference  : 37
+Best move   : c2c4
+
+====================================
+FEN: rnbqkb1r/p1pppppp/1p3n2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3
+Side to move: WHITE
+NNUE        : 62
+Handcrafted : -5
+Difference  : 67
+Best move   : b1c3
+
+====================================
+FEN: rnbqkb1r/p1p1pppp/1p1p1n2/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4
+Side to move: WHITE
+NNUE        : 89
+Handcrafted : 25
+Difference  : 64
+Best move   : g1f3
+
+====================================
+FEN: rn1qkb1r/pbp1pppp/1p1p1n2/8/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 2 5
+Side to move: WHITE
+NNUE        : 100
+Handcrafted : 60
+Difference  : 40
+Best move   : d4d5
+
+====================================
+FEN: rn1qkb1r/pbp2ppp/1p1ppn2/3P4/2P5/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 6
+Side to move: WHITE
+NNUE        : 76
+Handcrafted : 45
+Difference  : 31
+Best move   : e2e4
+
+====================================
+FEN: rn1qkb1r/pbp2ppp/1p1p1n2/3Pp3/2P1P3/2N2N2/PP3PPP/R1BQKB1R w KQkq - 0 7
+Side to move: WHITE
+NNUE        : 134
+Handcrafted : 65
+Difference  : 69
+Best move   : d1a4
+
+====================================
+FEN: rn2kb1r/pbpq1ppp/1p1p1n2/3Pp3/Q1P1P3/2N2N2/PP3PPP/R1B1KB1R w KQkq - 2 8
+Side to move: WHITE
+NNUE        : 257
+Handcrafted : 65
+Difference  : 192
+Best move   : a4b3
+
+====================================
+FEN: r3kb1r/pbpq1ppp/np1p1n2/3Pp3/2P1P3/1QN2N2/PP3PPP/R1B1KB1R w KQkq - 4 9
+Side to move: WHITE
+NNUE        : 176
+Handcrafted : 60
+Difference  : 116
+Best move   : c1e3
+
+====================================
+FEN: r1q1kb1r/pbp2ppp/np1p1n2/3Pp3/2P1P3/1QN1BN2/PP3PPP/R3KB1R w KQkq - 6 10
+Side to move: WHITE
+NNUE        : 180
+Handcrafted : 90
+Difference  : 90
+Best move   : f1e2
+
+====================================
+FEN: r1q1kb1r/pbp2ppp/np1p4/3Pp3/2P1P1n1/1QN1BN2/PP2BPPP/R3K2R w KQkq - 8 11
+Side to move: WHITE
+NNUE        : 225
+Handcrafted : 105
+Difference  : 120
+Best move   : b3b5
+
+====================================
+FEN: r1qk1b1r/pbp2ppp/np1p4/1Q1Pp3/2P1P1n1/2N1BN2/PP2BPPP/R3K2R w KQ - 10 12
+Side to move: WHITE
+NNUE        : 556
+Handcrafted : 100
+Difference  : 456
+Best move   : f3g5
+
+====================================
+FEN: r1qk1b1r/pbp2ppp/np1p4/1Q1Pp1N1/2P1P3/2N1n3/PP2BPPP/R3K2R w KQ - 0 13
+Side to move: WHITE
+NNUE        : 433
+Handcrafted : -225
+Difference  : 658
+Best move   : f2e3
+
+====================================
+FEN: r1qk1b1r/pb3ppp/nppp4/1Q1Pp1N1/2P1P3/2N1P3/PP2B1PP/R3K2R w KQ - 0 14
+Side to move: WHITE
+NNUE        : 482
+Handcrafted : 100
+Difference  : 382
+Best move   : d5c6
+
+====================================
+FEN: r1qk1b1r/p4ppp/npbp4/1Q2p1N1/2P1P3/2N1P3/PP2B1PP/R3K2R w KQ - 0 15
+Side to move: WHITE
+NNUE        : 743
+Handcrafted : 60
+Difference  : 683
+Best move   : g5f7
+
+====================================
+FEN: r1q1kb1r/p4Npp/npbp4/1Q2p3/2P1P3/2N1P3/PP2B1PP/R3K2R w KQ - 1 16
+Side to move: WHITE
+NNUE        : 565
+Handcrafted : 165
+Difference  : 400
+Best move   : e2h5
+
+====================================
+FEN: r1q1kb1r/p4N1p/npbp2p1/1Q2p2B/2P1P3/2N1P3/PP4PP/R3K2R w KQ - 0 17
+Side to move: WHITE
+NNUE        : 444
+Handcrafted : 170
+Difference  : 274
+Best move   : f7h8
+
+====================================
+FEN: r1q1kb1N/p6p/np1p2p1/1b2p2B/2P1P3/2N1P3/PP4PP/R3K2R w KQ - 0 18
+Side to move: WHITE
+NNUE        : 460
+Handcrafted : -270
+Difference  : 730
+Best move   : h8g6
+
+====================================
+FEN: r1q1kb2/p7/np1p2p1/1b2p2B/2P1P3/2N1P3/PP4PP/R3K2R w KQ - 0 19
+Side to move: WHITE
+NNUE        : 352
+Handcrafted : -415
+Difference  : 767
+Best move   : h5g6
+
+====================================
+FEN: r1q2b2/p3k3/np1p2B1/1b2p3/2P1P3/2N1P3/PP4PP/R3K2R w KQ - 1 20
+Side to move: WHITE
+NNUE        : 649
+Handcrafted : -310
+Difference  : 959
+Best move   : c3d5
+
+====================================
+FEN: r1qk1b2/p7/np1p2B1/1b1Np3/2P1P3/4P3/PP4PP/R3K2R w KQ - 3 21
+Side to move: WHITE
+NNUE        : 432
+Handcrafted : -300
+Difference  : 732
+Best move   : e1g1
+
+====================================
+FEN: r1qk4/p3b3/np1p2B1/1b1Np3/2P1P3/4P3/PP4PP/R4RK1 w - - 5 22
+Side to move: WHITE
+NNUE        : 495
+Handcrafted : -280
+Difference  : 775
+Best move   : c4b5
+
+====================================
+FEN: r1qk4/p3b3/1p1p2B1/1P1Np3/1n2P3/4P3/PP4PP/R4RK1 w - - 1 23
+Side to move: WHITE
+NNUE        : 610
+Handcrafted : -10
+Difference  : 620
+Best move   : d5b4
+
+====================================
+FEN: r1qk4/p7/1p1p2B1/1P2p3/1N2P2b/4P3/PP4PP/R4RK1 w - - 1 24
+Side to move: WHITE
+NNUE        : 583
+Handcrafted : 285
+Difference  : 298
+Best move   : b4c6
+
+====================================
+FEN: r1q5/p2k4/1pNp2B1/1P2p3/4P2b/4P3/PP4PP/R4RK1 w - - 3 25
+Side to move: WHITE
+NNUE        : 612
+Handcrafted : 295
+Difference  : 317
+Best move   : g6f5
+
+====================================
+FEN: r1q1k3/p7/1pNp4/1P2pB2/4P2b/4P3/PP4PP/R4RK1 w - - 5 26
+Side to move: WHITE
+NNUE        : 531
+Handcrafted : 300
+Difference  : 231
+Best move   : f5g6
+
+====================================
+FEN: r1q5/p2k4/1pNp2B1/1P2p3/4P2b/4P3/PP4PP/R4RK1 w - - 7 27
+Side to move: WHITE
+NNUE        : 612
+Handcrafted : 295
+Difference  : 317
+Best move   : g6f5
+
+====================================
+FEN: r1q1k3/p7/1pNp4/1P2pB2/4P2b/4P3/PP4PP/R4RK1 w - - 9 28
+Side to move: WHITE
+NNUE        : 531
+Handcrafted : 300
+Difference  : 231
+Best move   : f5c8
+
+====================================
+FEN: r1B1k3/p7/1pNp4/1P2p3/4P3/4P3/PP3bPP/R4RK1 w - - 1 29
+Side to move: WHITE
+NNUE        : 884
+Handcrafted : 1135
+Difference  : -251
+Best move   : f1f2
+
+====================================
+FEN: 2r1k3/p7/1pNp4/1P2p3/4P3/4P3/PP3RPP/R5K1 w - - 0 30
+Side to move: WHITE
+NNUE        : 989
+Handcrafted : 1145
+Difference  : -156
+Best move   : a1f1
+
+====================================
+FEN: 4k3/p7/1prp4/1P2p3/4P3/4P3/PP3RPP/5RK1 w - - 0 31
+Side to move: WHITE
+NNUE        : 628
+Handcrafted : 835
+Difference  : -207
+Best move   : b5c6
+
+====================================
+FEN: 4k3/8/1pPp4/p3p3/4P3/4P3/PP3RPP/5RK1 w - - 0 32
+Side to move: WHITE
+NNUE        : 1043
+Handcrafted : 1355
+Difference  : -312
+Best move   : f2f7
+
+====================================
+FEN: 4k3/5R2/1pP5/p2pp3/4P3/4P3/PP4PP/5RK1 w - - 0 33
+Side to move: WHITE
+NNUE        : 1148
+Handcrafted : 1345
+Difference  : -197
+Best move   : c6c7
+
+====================================
+FEN: 4k3/2P2R2/1p6/p3p3/4p3/4P3/PP4PP/5RK1 w - - 0 34
+Side to move: WHITE
+NNUE        : 1148
+Handcrafted : 1250
+Difference  : -102
+Best move   : c7c8q
+
+====================================
+FEN: rnbqkbnr/pppppppp/8/8/8/4P3/PPPP1PPP/RNBQKBNR b KQkq - 0 1
+Side to move: BLACK
+NNUE        : 0
+Handcrafted : -20
+Difference  : 20
+Best move   : g8f6
+
+====================================
+FEN: rnbqkb1r/pppppppp/5n2/8/8/4P3/PPPPBPPP/RNBQK1NR b KQkq - 2 2
+Side to move: BLACK
+NNUE        : 11
+Handcrafted : 20
+Difference  : -9
+Best move   : e7e6
+
+====================================
+FEN: rnbqkb1r/pppp1ppp/4pn2/8/2P5/4P3/PP1PBPPP/RNBQK1NR b KQkq - 0 3
+Side to move: BLACK
+NNUE        : 8
+Handcrafted : 50
+Difference  : -42
+Best move   : d7d5
+
+====================================
+FEN: rnbqkb1r/ppp2ppp/4pn2/3p4/2P5/4PN2/PP1PBPPP/RNBQK2R b KQkq - 1 4
+Side to move: BLACK
+NNUE        : 10
+Handcrafted : 40
+Difference  : -30
+Best move   : c7c5
+
+====================================
+FEN: rnbqkb1r/pp3ppp/4pn2/2pp4/2P5/4PN2/PP1PBPPP/RNBQ1RK1 b kq - 1 5
+Side to move: BLACK
+NNUE        : 6
+Handcrafted : 0
+Difference  : 6
+Best move   : d5d4
+
+====================================
+FEN: rnbqkb1r/pp3ppp/4pn2/2p5/2PP4/5N2/PP1PBPPP/RNBQ1RK1 b kq - 0 6
+Side to move: BLACK
+NNUE        : -61
+Handcrafted : -140
+Difference  : 79
+Best move   : c5d4
+
+====================================
+FEN: rnbqkb1r/pp3ppp/4pn2/8/2Pp4/5N2/PP1PBPPP/RNBQR1K1 b kq - 1 7
+Side to move: BLACK
+NNUE        : 15
+Handcrafted : 0
+Difference  : 15
+Best move   : d4d3
+
+====================================
+FEN: rnbqkb1r/pp3ppp/4pn2/8/2P5/3p1N2/PP1P1PPP/RNBQRBK1 b kq - 1 8
+Side to move: BLACK
+NNUE        : 215
+Handcrafted : 15
+Difference  : 200
+Best move   : f6g4
+
+====================================
+FEN: rnbqkb1r/pp3ppp/4p3/8/2P3n1/2Np1N2/PP1P1PPP/R1BQRBK1 b kq - 3 9
+Side to move: BLACK
+NNUE        : 176
+Handcrafted : -40
+Difference  : 216
+Best move   : b8c6
+
+====================================
+FEN: r1bqkb1r/pp3ppp/2n1p3/8/2P3n1/2Np1N1P/PP1P1PP1/R1BQRBK1 b kq - 0 10
+Side to move: BLACK
+NNUE        : 128
+Handcrafted : 10
+Difference  : 118
+Best move   : g4f2
+
+====================================
+FEN: r1bqkb1r/pp3ppp/2n1p3/8/2P5/2Np1N1P/PP1P1KP1/R1BQRB2 b kq - 0 11
+Side to move: BLACK
+NNUE        : 83
+Handcrafted : -155
+Difference  : 238
+Best move   : f8c5
+
+====================================
+FEN: r1bqk2r/pp3ppp/2n1p3/2b5/2P5/2NpRN1P/PP1P1KP1/R1BQ1B2 b kq - 2 12
+Side to move: BLACK
+NNUE        : 209
+Handcrafted : -130
+Difference  : 339
+Best move   : e6e5
+
+====================================
+FEN: r1bqk2r/pp3ppp/2n5/2b1p3/2P5/2NpRN1P/PP1P2P1/R1BQ1BK1 b kq - 1 13
+Side to move: BLACK
+NNUE        : 288
+Handcrafted : -140
+Difference  : 428
+Best move   : c8e6
+
+====================================
+FEN: r2qk2r/pp3ppp/2n1b3/2b1p3/2P5/2NpR2P/PP1P2P1/R1BQNBK1 b kq - 3 14
+Side to move: BLACK
+NNUE        : 165
+Handcrafted : -80
+Difference  : 245
+Best move   : e6c4
+
+====================================
+FEN: r2qk2r/pp3ppp/2n5/2b1p3/2b5/1PNpR2P/P2P2P1/R1BQNBK1 b kq - 0 15
+Side to move: BLACK
+NNUE        : 267
+Handcrafted : 30
+Difference  : 237
+Best move   : c4a6
+
+====================================
+FEN: r2qk2r/pp3ppp/b1n5/2b1p3/P7/1PNpR2P/3P2P1/R1BQNBK1 b kq - 0 16
+Side to move: BLACK
+NNUE        : 178
+Handcrafted : 20
+Difference  : 158
+Best move   : e8g8
+
+====================================
+FEN: r2q1rk1/pp3ppp/b1n5/2b1p3/P3N3/1P1pR2P/3P2P1/R1BQNBK1 b - - 2 17
+Side to move: BLACK
+NNUE        : 305
+Handcrafted : 40
+Difference  : 265
+Best move   : d8d4
+
+====================================
+FEN: r4rk1/pp3ppp/b1n5/2N1p3/P2q4/1P1pR2P/3P2P1/R1BQNBK1 b - - 0 18
+Side to move: BLACK
+NNUE        : 109
+Handcrafted : -255
+Difference  : 364
+Best move   : d4a1
+
+====================================
+FEN: r4rk1/pp3ppp/N1n5/4p3/P7/1P1pR2P/3P2P1/q1BQNBK1 b - - 0 19
+Side to move: BLACK
+NNUE        : -1
+Handcrafted : -25
+Difference  : 24
+Best move   : e5e4
+
+====================================
+FEN: r4rk1/pp3ppp/N1n5/8/P3R3/1P1p3P/3P2P1/q1BQNBK1 b - - 0 20
+Side to move: BLACK
+NNUE        : 152
+Handcrafted : -145
+Difference  : 297
+Best move   : b7a6
+
+====================================
+FEN: r4rk1/p4ppp/p1n5/8/P3R3/1P1N3P/3P2P1/q1BQ1BK1 b - - 0 21
+Side to move: BLACK
+NNUE        : 9
+Handcrafted : -55
+Difference  : 64
+Best move   : g8h8
+
+====================================
+FEN: r4r1k/p4ppp/p1n5/8/P3R3/1P1N3P/2QP2P1/q1B2BK1 b - - 2 22
+Side to move: BLACK
+NNUE        : 341
+Handcrafted : -75
+Difference  : 416
+Best move   : a1f6
+
+====================================
+FEN: r4r1k/p4ppp/p1n2q2/8/P3R3/BP1N3P/2QP2P1/5BK1 b - - 4 23
+Side to move: BLACK
+NNUE        : 242
+Handcrafted : -50
+Difference  : 292
+Best move   : f6f1
+
+====================================
+FEN: r4r1k/p4ppp/p1n5/8/P3R3/BP1N3P/2QP2P1/5K2 b - - 0 24
+Side to move: BLACK
+NNUE        : 401
+Handcrafted : -645
+Difference  : 1046
+Best move   : f7f5
+
+====================================
+FEN: r4r1k/p5pp/p1n5/5p2/P7/BP1N3P/2QP2P1/4RK2 b - - 1 25
+Side to move: BLACK
+NNUE        : 283
+Handcrafted : -660
+Difference  : 943
+Best move   : c6d4
+
+====================================
+FEN: r4r1k/p5pp/p7/5p2/P2n4/BP1N3P/3P2P1/3QRK2 b - - 3 26
+Side to move: BLACK
+NNUE        : 363
+Handcrafted : -640
+Difference  : 1003
+Best move   : f8c8
+
+====================================
+FEN: r1r4k/p5pp/p7/5p2/P2n4/1P1N3P/1B1P2P1/3QRK2 b - - 5 27
+Side to move: BLACK
+NNUE        : 230
+Handcrafted : -655
+Difference  : 885
+Best move   : c8d8
+
+====================================
+FEN: r2r3k/p5pp/p7/5p2/P2n4/1P5P/1B1P1NP1/3QRK2 b - - 7 28
+Side to move: BLACK
+NNUE        : 266
+Handcrafted : -635
+Difference  : 901
+Best move   : a8b8
+
+====================================
+FEN: 1r1r3k/p5pp/p7/5p1Q/P2n4/1P5P/1B1P1NP1/4RK2 b - - 9 29
+Side to move: BLACK
+NNUE        : 324
+Handcrafted : -635
+Difference  : 959
+Best move   : d4b3
+
+====================================
+FEN: 1r1r3k/p5Bp/p7/5p1Q/P7/1n5P/3P1NP1/4RK2 b - - 0 30
+Side to move: BLACK
+NNUE        : 88
+Handcrafted : -665
+Difference  : 753
+Best move   : h8g7
+
+====================================
+FEN: 1r1r4/p3R1kp/p7/5p1Q/P7/1n5P/3P1NP1/5K2 b - - 1 31
+Side to move: BLACK
+NNUE        : -13
+Handcrafted : -370
+Difference  : 357
+Best move   : g7f6
+
+====================================
+FEN: 1r1r4/p3RQ1p/p4k2/5p2/P7/1n5P/3P1NP1/5K2 b - - 3 32
+Side to move: BLACK
+NNUE        : 190
+Handcrafted : -415
+Difference  : 605
+Best move   : f6g5
+
+====================================
+FEN: 1r1r4/p3RQ1p/p7/5pk1/P3N3/1n5P/3P2P1/5K2 b - - 5 33
+Side to move: BLACK
+NNUE        : -171
+Handcrafted : -445
+Difference  : 274
+Best move   : f5e4
+
+====================================
+FEN: 1r1r4/p3R1Qp/p7/6k1/P3p3/1n5P/3P2P1/5K2 b - - 1 34
+Side to move: BLACK
+NNUE        : 95
+Handcrafted : -100
+Difference  : 195
+Best move   : g5h4
+
+====================================
+FEN: rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+Side to move: WHITE
+NNUE        : 24
+Handcrafted : 0
+Difference  : 24
+Best move   : e2e4
+
